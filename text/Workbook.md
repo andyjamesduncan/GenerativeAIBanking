@@ -212,8 +212,9 @@ Load the PDF document KatalaxyBankKYCClientDueDiligence.pdf and then paste in AL
 > If the document does not specify something, write: “Not specified in supplied document.” 
 > Do not infer or assume beyond the text. 
 > Structure output into two sections: 
-> - A. KYC Refresh Triggers 
-> - B. Required Evidence 
+> - A. KYC Refresh Triggers
+> - B. Required Evidence
+>
 > Question: 
 > What events trigger a KYC refresh, and what evidence is required?
 
@@ -305,7 +306,8 @@ Let’s go for a bit more of an analytical angle. Paste this in and execute with
 
 ### Copy Text
 
-> Now identify three issues that could materially affect valuation over the next 12–24 months. Explain each in one sentence.
+> Now identify three issues that could materially affect valuation over the next 12–24 months. 
+> Explain each in one sentence.
 
 ## Workshop 3.2: Client Portfolio Update — Faster Drafting
 
@@ -340,8 +342,6 @@ Upload Market_Summary_Portfolio_Update_Exercise.pdf into a ChatGPT input box, al
 Step 1 (if you cannot upload and download ﬁles)
 
 Paste in all of the text from the Market_Summary_Portfolio_Update_Exercise.txt ﬁle into a ChatGPT input box. Before executing, also paste in the full prompt above, and then execute.
-
-### Instruction Text
 
 Step 2
 
@@ -435,17 +435,16 @@ Using a text editor, create the prompt below, but with your new VBA inserted as 
 
 Paste your constructed prompt into a ChatGPT input box and then execute.
 
-### Copy Text
+## Copy and Paste This Into ChatGPT
 
-> ``` vba
->
-> >>> YOUR MACRO-GENERATED VBA CODE GETS PASTED HERE <<<
-> ```
->
-> Review the supplied VBA macro as if you were a senior risk or model validation reviewer. 
-> Identify hidden assumptions, edge case failures, and production risks.
->
-> Suggest improvements without changing the core functionality.
+```vba
+' >>> YOUR MACRO-GENERATED VBA CODE GETS PASTED HERE <<<
+```
+
+Review the supplied VBA macro as if you were a senior risk or model validation reviewer.  
+Identify hidden assumptions, edge case failures, and production risks.  
+
+Suggest improvements without changing the core functionality.
 
 ### Instruction Text
 
