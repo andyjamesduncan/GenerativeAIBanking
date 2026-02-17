@@ -10,9 +10,7 @@ Paste the following text into a new ChatGPT chat box and execute:
 
 ### Copy Text
 
-````
-Under Basel III, what is the exposure measure for a written credit default swap under the leverage ratio when used for client clearing, including the treatment of potential future exposure and cash variation margin?
-````
+> Under Basel III, what is the exposure measure for a written credit default swap under the leverage ratio when used for client clearing, including the treatment of potential future exposure and cash variation margin?
 
 ### Instruction Text
 
@@ -22,15 +20,13 @@ Find out what was wrong with the response, by next inputting this text and then 
 
 ### Copy Text
 
-````
-Critically review your previous answer.
-
-1.  Identify any assumptions you made about regulatory treatment.
-2.  Identify areas where Basel III rules are jurisdiction specific.
-3.  Highlight any statements that may require direct citation to regulatory text.
-4.  Flag areas where your answer may be incomplete or simplified.
-5.  State clearly whether any part of your answer could be inaccurate.
-````
+> Critically review your previous answer.
+>
+> 1.  Identify any assumptions you made about regulatory treatment.
+> 2.  Identify areas where Basel III rules are jurisdiction specific.
+> 3.  Highlight any statements that may require direct citation to regulatory text.
+> 4.  Flag areas where your answer may be incomplete or simplified.
+> 5.  State clearly whether any part of your answer could be inaccurate.
 
 ### Instruction Text
 
