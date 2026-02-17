@@ -435,7 +435,7 @@ Paste your constructed prompt into a ChatGPT input box and then execute.
 
 ### Copy Text
 
-```
+````
 ```vba
 >>> YOUR MACRO-GENERATED VBA CODE GETS PASTED HERE <<<
 ```
@@ -444,12 +444,7 @@ Review the supplied VBA macro as if you were a senior risk or model validation r
 Identify hidden assumptions, edge case failures, and production risks.
 
 Suggest improvements without changing the core functionality.
-```
-
-Review the supplied VBA macro as if you were a senior risk or model validation reviewer.  
-Identify hidden assumptions, edge case failures, and production risks.  
-
-Suggest improvements without changing the core functionality.
+````
 
 ### Instruction Text
 
