@@ -1,0 +1,7 @@
+# Microsoft Office temporary files
+~$*
+*.tmp
+*.bak
+
+# macOS system files
+.DS_Store
