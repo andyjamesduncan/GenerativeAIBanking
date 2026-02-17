@@ -23,7 +23,7 @@ Find out what was wrong with the response, by next inputting this text and then 
 > Critically review your previous answer.
 >
 > 1.  Identify any assumptions you made about regulatory treatment.
-> 2.  Identify areas where Basel III rules are jurisdiction- specific.
+> 2.  Identify areas where Basel III rules are jurisdiction specific.
 > 3.  Highlight any statements that may require direct citation to regulatory text.
 > 4.  Flag areas where your answer may be incomplete or simplified.
 > 5.  State clearly whether any part of your answer could be inaccurate.
@@ -40,7 +40,13 @@ To ‘constrain’ ChatGPT’s ‘imagination’, it can be worth inputting a mu
 >
 > Explain the exposure measure for a written credit default swap cleared for a client.
 >
-> Constraints: - Maximum 150 words. - Use bullet points only. - Distinguish between replacement cost and potential future exposure. - Explain treatment of cash variation margin. - State clearly if jurisdictional differences may apply. - Do not speculate beyond Basel III text. If you are uncertain about any aspect, state “uncertain under Basel III framework”.
+> Constraints: 
+> Maximum 150 words. 
+> Use bullet points only. 
+> Distinguish between replacement cost and potential future exposure. 
+> Explain treatment of cash variation margin. 
+> State clearly if jurisdictional differences may apply. 
+> Do not speculate beyond Basel III text. If you are uncertain about any aspect, state “uncertain under Basel III framework”.
 
 ## Workshop 1.2: Live Micro-Demo
 
@@ -58,7 +64,10 @@ Paste the following into a new ChatGPT chat box and execute.
 >
 > <Objective> Explain generative AI in 4 bullet points
 >
-> <Constraints> - Maximum 12 words per bullet - Distinguish from predictive AI - State one limitation clearly
+> <Constraints> 
+> Maximum 12 words per bullet 
+> Distinguish from predictive AI 
+> State one limitation clearly
 
 ## Workshop 2.2: Live Demo – 24/7 Client Chatbot Simulation
 
