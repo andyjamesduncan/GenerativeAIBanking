@@ -1,0 +1,1519 @@
+12/02/2026, 13:06                                                                               jpm-20231231
+
+
+
+
+                                                                       UNITED STATES
+                                                           SECURITIES AND EXCHANGE COMMISSION
+                                                                  WASHINGTON, D.C. 20549
+
+                                                                              FORM 10-K
+                                                            Annual report pursuant to Section 13 or 15(d) of
+                                                                the Securities Exchange Act of 1934
+
+                             For the fiscal year ended                                                           Commission file
+                               December 31, 2023                                                                 number 1-5805
+
+
+                                                   JPMorgan Chase & Co.
+                                                          (Exact name of registrant as specified in its charter)
+                                                      Delaware                                                   13-2624428
+                                            (State or other jurisdiction of                                    (I.R.S. employer
+                                           incorporation or organization)                                     identification no.)
+                                                383 Madison Avenue,
+                                                New York, New York                                                   10179
+                                           (Address of principal executive
+                                                      offices)                                                    (Zip Code)
+
+
+                                                 Registrant’s telephone number, including area code: (212) 270-6000
+                                                     Securities registered pursuant to Section 12(b) of the Act:
+   Title of each class                                                                                    Trading Symbol(s)         Name of each exchange on which registered
+   Common stock                                                                                           JPM                       The New York Stock Exchange
+   Depositary Shares, each representing a one-four hundredth interest in a share of 5.75% Non-            JPM PR D                  The New York Stock Exchange
+    Cumulative Preferred Stock, Series DD
+   Depositary Shares, each representing a one-four hundredth interest in a share of 6.00% Non-            JPM PR C                  The New York Stock Exchange
+    Cumulative Preferred Stock, Series EE
+   Depositary Shares, each representing a one-four hundredth interest in a share of 4.75% Non-            JPM PR J                  The New York Stock Exchange
+    Cumulative Preferred Stock, Series GG
+   Depositary Shares, each representing a one-four hundredth interest in a share of 4.55% Non-            JPM PR K                  The New York Stock Exchange
+    Cumulative Preferred Stock, Series JJ
+   Depositary Shares, each representing a one-four hundredth interest in a share of 4.625% Non-           JPM PR L                  The New York Stock Exchange
+    Cumulative Preferred Stock, Series LL
+   Depositary Shares, each representing a one-four hundredth interest in a share of 4.20% Non-            JPM PR M                  The New York Stock Exchange
+    Cumulative Preferred Stock, Series MM
+   Alerian MLP Index ETNs due May 24, 2024                                                                AMJ                       NYSE Arca, Inc.
+   Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company JPM/32                              The New York Stock Exchange
+    LLC
+   Guarantee of Alerian MLP Index ETNs due January 28, 2044 of JPMorgan Chase Financial         AMJB                                NYSE Arca, Inc.
+    Company LLC
+
+                                                        Securities registered pursuant to Section 12(g) of the Act: None
+  Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. ☐ Yes ☒ No
+  Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. ☐ Yes ☒ No
+  Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+  preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+  90 days. ☒ Yes ☐ No
+  Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T
+  (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). ☒ Yes ☐ No
+  Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging
+  growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the
+  Exchange Act.
+
+        ☒   Large accelerated filer      ☐ Accelerated filer              ☐ Non-accelerated filer        ☐    Smaller reporting               ☐ Emerging growth
+                                                                                                              company                           company
+
+
+  If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+  financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+  Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over
+  financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+  ☒ Yes ☐ No
+  If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect
+  the correction of an error to previously issued financial statements. ☐
+  Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of
+  the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1 (b). ☐
+  Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). ☐ Yes ☒ No
+  The aggregate market value of JPMorgan Chase & Co. common stock held by non-affiliates as of June 30, 2023: $421,027,210,720
+                                            Number of shares of common stock outstanding as of January 31, 2024: 2,880,371,498
+
+  Documents incorporated by reference: Portions of the registrant’s Proxy Statement for the annual meeting of stockholders to be held on May 21, 2024, are incorporated
+  by reference in this Form 10-K in response to Items 10, 11, 12, 13 and 14 of Part III.
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                                                               1/333
+12/02/2026, 13:06                                                                   jpm-20231231
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                  2/333
+12/02/2026, 13:06                                                                   jpm-20231231
+
+
+
+
+  Form 10-K Index
+   Part I                                                                                                                              Page
+   Item 1.      Business.                                                                                                                  1
+                 Overview                                                                                                                  1
+                 Business segments                                                                                                         1
+                 Competition                                                                                                               1
+                 Human capital                                                                                                           2-3
+                 Supervision and regulation                                                                                              4-8
+                 Distribution of assets, liabilities and stockholders’ equity; interest rates and interest differentials            310-314
+                 Return on equity and assets                                                                                    46, 170, 310
+                 Investment securities portfolio                                                                                         227
+                 Loans                                                                                                     113-130, 235-254
+                 Allowance for credit losses                                                                               131-133, 255-260
+                 Deposits                                                                                                                274
+   Item 1A.     Risk Factors.                                                                                                           9-33
+   Item 1B.     Unresolved Staff Comments.                                                                                                34
+   Item 2.      Properties.                                                                                                               34
+   Item 3.      Legal Proceedings.                                                                                                        34
+   Item 4.      Mine Safety Disclosures.                                                                                                  34
+
+   Part II
+   Item 5.      Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity
+                 Securities.                                                                                                             35
+   Item 6.      Reserved                                                                                                                 35
+   Item 7.      Management’s Discussion and Analysis of Financial Condition and Results of Operations.                                   35
+   Item 7A.     Quantitative and Qualitative Disclosures About Market Risk.                                                              35
+   Item 8.      Financial Statements and Supplementary Data.                                                                             36
+   Item 9.      Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.                                    36
+   Item 9A.     Controls and Procedures.                                                                                                 36
+   Item 9B.     Other Information.                                                                                                       37
+   Item 9C.     Disclosure regarding Foreign Jurisdictions that Prevent Inspections.                                                     37
+
+   Part III
+   Item 10.     Directors, Executive Officers and Corporate Governance.                                                                  38
+   Item 11.     Executive Compensation.                                                                                                  39
+   Item 12.     Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.                          39
+   Item 13.     Certain Relationships and Related Transactions, and Director Independence.                                               39
+   Item 14.     Principal Accounting Fees and Services.                                                                                  39
+
+   Part IV
+   Item 15.     Exhibits, Financial Statement Schedules.                                                                              40-43
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                         3/333
+12/02/2026, 13:06                                                                   jpm-20231231
+  Part I
+
+
+
+  Item 1. Business.
+  Overview                                                                    Business segments
+  JPMorgan Chase & Co. (“JPMorgan Chase” or the “Firm”,                       For management reporting purposes, JPMorgan Chase’s
+  NYSE: JPM), a financial holding company incorporated                        activities are organized into four major reportable business
+  under Delaware law in 1968, is a leading financial services                 segments, as well as a Corporate segment. The Firm’s
+  firm based in the United States of America (“U.S.”), with                   consumer business is the Consumer & Community Banking
+  operations worldwide. JPMorgan Chase had $3.9 trillion in                   (“CCB”) segment. The Firm’s wholesale businesses are the
+  assets and $327.9 billion in stockholders’ equity as of                     Corporate & Investment Bank (“CIB”), Commercial Banking
+  December 31, 2023. The Firm is a leader in investment                       (“CB”), and Asset & Wealth Management (“AWM”) segments.
+  banking, financial services for consumers and small
+                                                                              A description of the Firm’s business segments and the
+  businesses, commercial banking, financial transaction
+                                                                              products and services they provide to their respective client
+  processing and asset management. Under the J.P. Morgan
+                                                                              bases is provided in the “Business segment results” section
+  and Chase brands, the Firm serves millions of customers,
+                                                                              of Management’s discussion and analysis of financial
+  predominantly in the U.S., and many of the world’s most
+                                                                              condition and results of operations (“Management’s
+  prominent corporate, institutional and government clients
+                                                                              discussion and analysis” or “MD&A”), beginning on page 48
+  globally.
+                                                                              and in Note 32. On May 1, 2023, JPMorgan Chase acquired
+  JPMorgan Chase’s principal bank subsidiary is JPMorgan                      certain assets and assumed certain liabilities of First
+  Chase Bank, National Association (“JPMorgan Chase Bank,                     Republic Bank (the “First Republic acquisition”) from the
+  N.A.”), a national banking association with U.S. branches in                Federal Deposit Insurance Corporation (“FDIC”). Refer to
+  48 states and Washington, D.C. JPMorgan Chase’s principal                   Note 34 for additional information.
+  non-bank subsidiary is J.P. Morgan Securities LLC (“J.P.
+                                                                              Competition
+  Morgan Securities”), a U.S. broker-dealer. The bank and
+                                                                              JPMorgan Chase and its subsidiaries and affiliates operate
+  non-bank subsidiaries of JPMorgan Chase operate nationally
+                                                                              in highly competitive environments. Competitors include
+  as well as through overseas branches and subsidiaries,
+                                                                              other banks, brokerage firms, investment banking
+  representative offices and subsidiary foreign banks. The
+                                                                              companies, merchant banks, hedge funds, commodity
+  Firm’s principal operating subsidiaries outside the U.S. are
+                                                                              trading companies, private equity firms, insurance
+  J.P. Morgan Securities plc and J.P. Morgan SE (“JPMSE”),
+                                                                              companies, mutual fund companies, investment managers,
+  which are subsidiaries of JPMorgan Chase Bank, N.A. and
+                                                                              credit card companies, mortgage banking companies, trust
+  are based in the United Kingdom (“U.K.”) and Germany,
+                                                                              companies, securities processing companies, automobile
+  respectively.
+                                                                              financing companies, leasing companies, e-commerce and
+  The Firm’s website is www.jpmorganchase.com. JPMorgan                       other internet-based companies, financial technology
+  Chase makes available on its website, free of charge, annual                companies, and other companies engaged in providing
+  reports on Form 10-K, quarterly reports on Form 10-Q and                    similar as well as new products and services. The Firm’s
+  current reports on Form 8-K pursuant to Section 13(a) or                    businesses generally compete on the basis of the quality and
+  Section 15(d) of the Securities Exchange Act of 1934, as                    variety of the Firm’s products and services, transaction
+  soon as reasonably practicable after it electronically files or             execution, innovation, reputation and price. Competition also
+  furnishes such material to the U.S. Securities and Exchange                 varies based on the types of clients, customers, industries
+  Commission (the “SEC”) at www.sec.gov. JPMorgan Chase                       and geographies served. With respect to some of its
+  makes new and important information about the Firm                          geographies and products, JPMorgan Chase competes
+  available on its website at https://www.jpmorganchase.com,                  globally; with respect to others, the Firm competes on a
+  including on the Investor Relations section of its website at               national or regional basis. New competitors in the financial
+  https://www.jpmorganchase.com/ir. Information on the Firm's                 services industry continue to emerge, including firms that
+  website, including documents on the website that are                        offer products and services solely through the internet and
+  referenced in this Form 10-K, is not incorporated by                        non-financial companies that offer products and services that
+  reference into this Annual Report on Form 10-K for the year                 disintermediate traditional banking products and services
+  ended December 31, 2023 (“2023 Form 10-K” or “Form 10-                      offered by financial services firms such as JPMorgan Chase.
+  K”) or the Firm’s other filings with the SEC. The Firm has
+  adopted, and posted on its website, a Code of Conduct for
+  all employees of the Firm and a Code of Ethics for its
+  Chairman and Chief Executive Officer, Chief Financial
+  Officer, Principal Accounting Officer and all other
+  professionals of the Firm worldwide serving in a finance,
+  accounting, treasury, tax or investor relations role. The Code
+  of Ethics is also available in print upon request to the Firm’s
+  Investor Relations team. Within the time period required by
+  the SEC, JPMorgan Chase will post on its website any
+  amendment to the Code of Ethics and any waiver applicable
+  to a director or executive officer.
+
+
+
+                                                                                                                                              1
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                             4/333
+12/02/2026, 13:06                                                                    jpm-20231231
+  Part I
+
+
+  Human capital
+  JPMorgan Chase believes that its long-term growth and success depend on its ability to attract, develop and retain a high-
+  performing and diverse workforce, with inclusion and accessibility as key components of the way the Firm does business. The
+  information provided below relates to JPMorgan Chase’s full-time and part-time employees and does not include the Firm’s
+  contractors.
+  Global workforce
+  As of December 31, 2023, JPMorgan Chase had 309,926 employees globally, an increase of 16,203 employees from the prior
+  year. The increase was primarily attributable to growth in front office, operations and technology, as well as the impact of the
+  First Republic acquisition. The Firm’s employees are located in 65 countries, with 60% of the Firm’s employees located in the
+  U.S. The following table presents the distribution of the Firm’s global workforce by region and by line of business (“LOB”) and
+  Corporate as of December 31, 2023:
+                       Employee Breakdown by Region                                           Employee Breakdown by LOB and Corporate
+   Region                                     Employees                            LOB                                    Employees
+   North America                                     186,751                       CCB                                             141,640
+   Asia-Pacific                                       88,406                       CIB                                              74,404
+   Europe/Middle East/Africa                                  29,583               CB                                                         17,867
+   Latin America/Caribbean                                     5,186               AWM                                                        28,485
+   Total Firm                                                309,926               Corporate                                                  47,530
+                                                                                   Total Firm                                                309,926
+
+  Diversity, equity and inclusion
+  The following table presents information based on voluntary self-identifications by the Firm’s employees and members of the
+  Board of Directors, as of December 31, 2023. Information on race/ethnicity of employees is categorized based on Equal
+  Employment Opportunity (“EEO”) classifications and is presented for U.S. employees who self-identified, and information on
+  gender is presented for global employees who self-identified. Information on race/ethnicity and gender for members of the
+  Operating Committee and the Board of Directors reflects all such members. Information on LGBTQ+ and veteran statuses is
+  based on all U.S. employees, and all members of the Operating Committee and the Board of Directors. Information on
+  disability status is based on all U.S. employees and all members of the Operating Committee.
+                                                                 Total                Senior level             Operating                Board of
+   December 31, 2023                                           employees              employees(e)             Committee               Directors(f)
+   Race/Ethnicity(a):
+    White                                                               43 %                     75 %                   88 %                    82 %
+       Hispanic                                                         21 %                      6%                      6%                    —
+       Asian                                                            19 %                     13 %                     6%                    —
+       Black                                                            14 %                      5%                     —                      18 %
+       Other(b)                                                           3%                      1%                     —                      —
+               (c)
+   Gender :
+       Men                                                              51 %                     72 %                   59 %                    55 %
+       Women                                                            49 %                     28 %                   41 %                    45 %
+
+       LGBTQ+(d)                                                          4%                      3%                      6%                    —
+       Military veterans(d)                                               3%                      2%                     —                      9%
+       People with disabilities(d)                                        4%                      3%                     —                      — (g)
+
+  (a) Based on EEO metrics. Presented as a percentage of the respective populations who self-identified race/ethnicity, which was 96% and 94% of the Firm’s
+      total U.S.-based employees and U.S.-based senior level employees, respectively, and all members of the Operating Committee and the Board of
+      Directors. Information for the Operating Committee includes one member who is based outside of the U.S.
+  (b) Other includes American Indian or Alaskan Native, Native Hawaiian or Other Pacific Islander, and two or more races/ethnicities.
+  (c) Presented as a percentage of the respective populations who self-identified gender, which was 98% of the Firm’s total global employees and 99% of the
+      Firm’s global senior level employees, and all members of the Operating Committee and the Board of Directors.
+  (d) Presented as a percentage of total U.S.-based employees, total U.S.-based senior level employees, all members of the Operating Committee, and all
+      members of the Board of Directors, respectively.
+  (e) Senior level employees represents employees with the titles of Managing Director and above.
+  (f) Excludes Mark A. Weinberger, who was elected to the Firm’s Board of Directors, effective January 16, 2024.
+  (g) The Firm did not request members of the Board of Directors to self-identify disability status.
+
+
+
+
+   2
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                                        5/333
+12/02/2026, 13:06                                                                   jpm-20231231
+
+
+
+
+  Firm culture                                                                Developing employees
+  The foundations of JPMorgan Chase’s culture are its                         JPMorgan Chase supports the professional development
+  purpose, values and “Business Principles.” The “Business                    and career growth of its employees. An onboarding training
+  Principles” are guiding principles established by the Firm,                 curriculum is required for new hires which covers, among
+  which it believes are fundamental to the Firm’s success,                    other topics, compliance with the Firm’s Code of Conduct
+  and are represented by four central corporate tenets:                       and information concerning Firm policies and standards,
+  exceptional client service; operational excellence; a                       including those relating to cybersecurity. In addition, the
+  commitment to integrity, fairness and responsibility; and                   Firm offers extensive training programs and educational
+  cultivation of a great team and winning culture. The Firm                   resources to all employees covering a broad variety of
+  maintains its focus on its culture of inclusion and respect,                topics such as leadership, change management, analytical
+  which is reinforced by its Code of Conduct and by                           thinking, culture and conduct, diversity, equity and
+  increasing employee awareness, education, communication                     inclusion, and risk and controls. Leadership Edge, the
+  and training. An important part of these efforts includes the               Firm’s global leadership and management development
+  Firm’s Business Resource Groups, which are groups of                        center of excellence, is focused on creating one Firmwide
+  employees who support JPMorgan Chase’s diversity, equity                    leadership culture.
+  and inclusion strategies by leveraging the unique
+                                                                              Compensation and benefits
+  perspectives of their members. The Firm has global
+                                                                              The Firm provides market-competitive compensation and
+  Diversity, Equity & Inclusion centers of excellence that lead
+                                                                              benefits programs. JPMorgan Chase’s compensation
+  the Firm’s strategy in supporting its commitments to create
+                                                                              philosophy includes guiding principles that drive
+  more equity and lasting impact in communities, and
+                                                                              compensation-related decisions across the Firm, and
+  strengthen its inclusive culture.
+                                                                              includes: pay-for-performance practices designed to attract
+  Attracting and retaining employees                                          and retain top talent; responsiveness and alignment with
+  The goal of JPMorgan Chase’s recruitment efforts is to                      shareholder interests; and reinforcement of the Firm’s
+  attract and hire talented individuals in all roles and at all               culture and Business Principles. The Firm follows a
+  career levels. The Firm strives to provide both external                    disciplined and balanced compensation framework,
+  candidates and internal employees who are seeking a                         including the integration of risk, controls and conduct
+  different role with challenging and stimulating career                      considerations. The Firm’s compensation review processes
+  opportunities. These opportunities range from internship                    seek to ensure that the Firm’s employees are paid equitably
+  training programs for students to entry-level, management                   and competitively for the work they do.
+  and executive careers. During 2023, approximately 60% of
+                                                                              JPMorgan Chase offers extensive benefits and wellness
+  the Firm’s employment opportunities were filled by external
+                                                                              packages to support employees and their families, which
+  candidates, with the remainder filled by existing employees.
+                                                                              vary depending on location and include healthcare
+  In addition, depending on business needs, and where
+                                                                              coverage, retirement benefits, life and disability insurance,
+  appropriate, the Firm continues to employ hybrid work
+                                                                              access to on-site health and wellness centers, counseling
+  models which include a mix of on-site and remote work for
+                                                                              and resources related to mental health, competitive
+  certain roles.
+                                                                              vacation and leave policies, child care access and support,
+  Attracting talent with diverse backgrounds and perspectives                 tuition reimbursement programs, and financial coaching. In
+  is an important area of focus throughout the Firm’s                         2023, the Firm further enhanced its health and wellness
+  recruitment process. JPMorgan Chase sources talent by                       benefits for U.S. employees, including updates to the U.S.
+  engaging in efforts aimed at building and fostering an                      medical plan, as well as expedited access to an expanded
+  inclusive work environment. The Firm’s global Diversity,                    network of professionals for free mental health counseling
+  Equity & Inclusion centers of excellence support its                        and coaching.
+  diversity, equity and inclusion strategies through initiatives
+  such as career coaching and mentorship.
+  JPMorgan Chase offers a competitive fellowship program
+  that seeks to attract accomplished individuals who have
+  taken a career break and wish to return to the workforce. In
+  addition, and where appropriate, the Firm’s hiring practices
+  focus on the skills of a job candidate rather than degrees
+  held.
+
+
+
+
+                                                                                                                                              3
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                             6/333
+12/02/2026, 13:06                                                                   jpm-20231231
+  Part I
+
+
+  Supervision and regulation                                                  those permissible for BHCs, or acquiring a company
+  The Firm is subject to extensive and comprehensive                          engaged in such activities.
+  regulation under U.S. federal and state laws, as well as the
+                                                                              Capital and liquidity requirements. The Federal Reserve
+  applicable laws of the jurisdictions outside the U.S. in which
+                                                                              establishes capital, liquidity and leverage requirements for
+  the Firm does business.
+                                                                              JPMorgan Chase that are generally consistent with the
+  Financial holding company:                                                  international Basel III capital and liquidity framework and
+  Consolidated supervision. JPMorgan Chase & Co. is a                         evaluates the Firm’s compliance with those requirements.
+  bank holding company (“BHC”) and a financial holding                        The OCC establishes similar requirements for JPMorgan
+  company (“FHC”) under U.S. federal law, and is subject to                   Chase Bank, N.A. Certain of the Firm’s non-U.S.
+  comprehensive consolidated supervision, regulation and                      subsidiaries and branches are also subject to local capital
+  examination by the Board of Governors of the Federal                        and liquidity requirements.
+  Reserve System (the “Federal Reserve”). The Federal
+                                                                              Banking supervisors globally continue to refine and
+  Reserve acts as the supervisor of the consolidated
+                                                                              enhance the Basel III capital framework for financial
+  operations of BHCs. Certain of JPMorgan Chase’s
+                                                                              institutions. In July 2023, U.S. banking regulators released
+  subsidiaries are also regulated directly by additional
+                                                                              a proposal to amend the U.S. risk-based capital framework
+  authorities based on the activities or licenses of those
+                                                                              to incorporate certain elements of the revised international
+  subsidiaries.
+                                                                              Basel III capital framework. The proposal would significantly
+  JPMorgan Chase’s national bank subsidiary, JPMorgan                         revise risk-based capital requirements for banks with assets
+  Chase Bank, N.A., is supervised and regulated by the                        of $100 billion or more, including the Firm and other U.S.
+  Office of the Comptroller of the Currency (“OCC”) and, with                 global systemically important banks ("GSIBs"). The
+  respect to certain matters, by the Federal Deposit                          proposed effective date is July 1, 2025 with a three-year
+  Insurance Corporation (the “FDIC”).                                         transition period.
+  JPMorgan Chase’s U.S. broker-dealers are supervised and                     In addition to the release of the U.S. proposal, the EU and
+  regulated by the Securities and Exchange Commission                         U.K. regulators have also largely finalized the rules
+  (“SEC”) and the Financial Industry Regulatory Authority                     implementing their Basel III frameworks. The proposed
+  (“FINRA”). Subsidiaries of the Firm that engage in certain                  effective dates are January 1, 2025, in the EU and July 1,
+  futures-related and swaps-related activities are supervised                 2025, in the U.K., with certain transitional arrangements
+  and regulated by the Commodity Futures Trading                              applicable until 2030 and 2032, respectively.
+  Commission (“CFTC”). J.P. Morgan Securities plc holds a
+                                                                              Stress tests. As a large BHC, JPMorgan Chase is subject to
+  banking license in the U.K. and is regulated by the U.K.
+                                                                              supervisory stress testing administered by the Federal
+  Prudential Regulation Authority (the “PRA”) and the U.K.
+                                                                              Reserve as part of the Federal Reserve’s annual
+  Financial Conduct Authority (“FCA”).
+                                                                              Comprehensive Capital Analysis and Review (“CCAR”)
+  JPMSE is a Germany-based credit institution regulated by                    framework. The Firm must conduct annual company-run
+  the European Central Bank (“ECB”) as well as the local                      stress tests and must also submit an annual capital plan to
+  regulators in each of the countries in which it operates. The               the Federal Reserve, taking into account the results of
+  Firm’s other non-U.S. subsidiaries are regulated by the                     separate stress tests designed by each of the Firm and the
+  banking, securities, prudential, payments and conduct                       Federal Reserve. The Federal Reserve uses the results
+  regulatory authorities, as applicable, in the countries in                  under the severely adverse scenario from its supervisory
+  which they operate.                                                         stress test to determine the Firm’s Stress Capital Buffer
+                                                                              (“SCB”) requirement for the coming year, which forms part
+  Permissible business activities. The Bank Holding
+                                                                              of the Firm’s applicable capital buffers. The Firm is required
+  Company Act restricts BHCs from engaging in business
+                                                                              to file its annual CCAR submission on April 5, 2024. The
+  activities other than the business of banking and certain
+                                                                              Federal Reserve will notify the Firm of its indicative SCB
+  closely-related activities. FHCs are permitted to engage in a
+                                                                              requirement by June 30, 2024 and final SCB requirement
+  broader range of financial activities. The Federal Reserve
+                                                                              by August 31, 2024. The Firm’s final SCB requirement will
+  has the authority to limit an FHC’s ability to conduct
+                                                                              become effective on October 1, 2024. The OCC requires
+  otherwise permissible activities if the FHC or any of its
+                                                                              JPMorgan Chase Bank, N.A. to perform separate, similar
+  depository institution subsidiaries ceases to meet
+                                                                              stress tests annually. The Firm publishes each year the
+  applicable eligibility requirements. The Federal Reserve
+                                                                              results of the annual stress tests for the Firm and
+  may also impose corrective capital and/or managerial
+                                                                              JPMorgan Chase Bank, N.A. under the supervisory
+  requirements on the FHC, and if deficiencies are persistent,
+                                                                              “severely adverse” scenarios provided by the Federal
+  may require divestiture of the FHC’s depository institutions.
+                                                                              Reserve and the OCC.
+  If any depository institution controlled by an FHC fails to
+  maintain a satisfactory rating under the Community                          Refer to Capital Risk Management on pages 91-101 and
+  Reinvestment Act, the Federal Reserve must prohibit the                     Liquidity Risk Management on pages 102–109 for more
+  FHC and its subsidiaries from engaging in any new                           information.
+  activities other than
+
+
+
+   4
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                            7/333
+12/02/2026, 13:06                                                                   jpm-20231231
+
+
+
+
+  Enhanced prudential standards. As part of its mandate to                    Orderly liquidation authority. Certain financial companies,
+  identify and monitor risks to the financial stability of the U.S.           including JPMorgan Chase and certain of its subsidiaries,
+  posed by large banking organizations, the Financial                         can also be subjected to resolution under the “orderly
+  Stability Oversight Council (“FSOC”) recommends                             liquidation authority” rather than under the Bankruptcy
+  prudential standards and reporting requirements to the                      Code. In order to invoke the orderly liquidation authority, the
+  Federal Reserve for systemically important financial                        U.S. Treasury Secretary, in consultation with the President
+  institutions (“SIFIs”), such as JPMorgan Chase. The                         of the United States, must first make certain determinations
+  Federal Reserve has adopted several rules to implement                      concerning extraordinary financial distress and systemic
+  those heightened prudential standards, including rules                      risk, and action must be recommended by the FDIC and the
+  relating to risk management and corporate governance of                     Federal Reserve. Absent such actions, the Firm, as a BHC,
+  subject BHCs. JPMorgan Chase is required under these                        would remain subject to resolution under the Bankruptcy
+  rules to comply with enhanced liquidity and overall risk                    Code. The FDIC has issued a draft policy statement
+  management standards, including oversight by the board of                   describing its “single point of entry” strategy for resolution of
+  directors of risk management activities.                                    SIFIs under the orderly liquidation authority, which seeks to
+                                                                              keep operating subsidiaries of a BHC open and impose
+  Resolution and recovery. The Firm is required to maintain a
+                                                                              losses on shareholders and creditors of the BHC in
+  comprehensive recovery plan, which is updated annually
+                                                                              receivership according to their statutory order of priority.
+  and which summarizes the actions that it would take to
+  remain well-capitalized and well-funded in order to avoid                   Holding company as a source of strength. JPMorgan Chase
+  failure in the case of an adverse event. In addition,                       & Co. is required to serve as a source of financial strength
+  JPMorgan Chase Bank, N.A. is required to prepare and                        for its depository institution subsidiaries and to commit
+  submit a recovery plan as directed by the OCC. Under the                    resources to support those subsidiaries, including when
+  Dodd-Frank Wall Street Reform and Consumer Protection                       directed to do so by the Federal Reserve.
+  Act (the “Dodd-Frank Act”), the Firm is required to submit
+                                                                              Regulation of acquisitions. Acquisitions by BHCs and their
+  periodically to the Federal Reserve and the FDIC a plan for
+                                                                              banks are subject to requirements, limitations and
+  resolution (a “resolution plan”) under the Bankruptcy Code
+                                                                              prohibitions established by law and by the Federal Reserve
+  in the event of material distress or failure. Under rules
+                                                                              and the OCC. For example, FHCs and BHCs are required
+  adopted by the FDIC and the Federal Reserve, the Firm’s
+                                                                              to obtain the approval of the Federal Reserve before they
+  resolution plan submissions under the Dodd-Frank Act
+                                                                              acquire more than 5% of the voting shares of an unaffiliated
+  alternate between “targeted” and “full” plans. The Firm’s
+                                                                              bank. In addition, acquisitions by financial companies are
+  most recent “full” resolution plan was filed on June 30,
+                                                                              generally prohibited if, as a result of the acquisition, the
+  2023, and the Firm's next "targeted" resolution plan is due
+                                                                              total liabilities of the financial company would exceed 10%
+  to be filed on or before July 1, 2025. JPMorgan Chase
+                                                                              of the total liabilities of all financial companies, as
+  Bank, N.A. is also required to prepare and submit a
+                                                                              determined under Federal Reserve regulations.
+  separate resolution plan pursuant to a separate FDIC
+                                                                              Furthermore, for certain acquisitions, the Firm must provide
+  regulation that requires FDIC-insured depository institutions
+                                                                              written notice to the Federal Reserve prior to acquiring
+  over a certain asset threshold to prepare a resolution plan
+                                                                              direct or indirect ownership or control of any voting shares
+  to facilitate their resolution by the FDIC under the Federal
+                                                                              of any company with over $10 billion in assets that is
+  Deposit Insurance Act (the “IDI Resolution Rule”).
+                                                                              engaged in activities that are “financial in nature.”
+  JPMorgan Chase Bank, N.A. most recently filed a
+                                                                              Moreover, while FHCs may engage in a broader range of
+  resolution plan pursuant to the IDI Resolution Rule on
+                                                                              activities (including acquisitions) than BHCs, the Federal
+  December 1, 2023.
+                                                                              Reserve has the authority to limit an FHC’s ability to
+  In August 2023, the FDIC released a proposal to revise the                  conduct otherwise permissible acquisitions if the FHC or
+  IDI Resolution Rule. For FDIC-insured depository                            any of its depository institution subsidiaries ceases to meet
+  institutions with $100 billion or more in total assets, such as             applicable eligibility requirements.
+  JPMorgan Chase Bank, N.A., the proposal would revise the
+                                                                              Ongoing obligations. The Firm is subject to a Deferred
+  content requirements for resolution plan submissions,
+                                                                              Prosecution Agreement entered into with the Department of
+  increase the frequency of resolution plan submissions to
+                                                                              Justice on September 29, 2020, relating to precious metals
+  every two years (instead of the current three-year cycle)
+                                                                              and U.S. Treasuries markets investigations, as well as a
+  and require the filing of interim supplements in non-
+                                                                              cooperation obligation under a related order issued by the
+  submission years. The proposal would also enhance how
+                                                                              CFTC.
+  the FDIC assesses the credibility of resolution plan
+  submissions, expand the FDIC’s expectations regarding                       Subsidiary banks:
+  bank engagement with FDIC staff and capabilities testing,                   The activities of JPMorgan Chase Bank, N.A., the Firm’s
+  and outline expectations regarding the FDIC’s review and                    principal subsidiary bank, are limited to those specifically
+  enforcement of compliance with the IDI Rule.                                authorized under the National Bank Act and related
+                                                                              interpretations of the OCC. The OCC has authority to bring
+  Certain of the Firm’s non-U.S. subsidiaries and branches
+                                                                              an enforcement action against JPMorgan Chase Bank, N.A.
+  are also subject to local resolution and recovery planning
+  requirements.
+
+
+
+                                                                                                                                                  5
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                             8/333
+12/02/2026, 13:06                                                                   jpm-20231231
+  Part I
+
+
+  for unsafe or unsound banking practices, which could                        an intermediate parent undertaking (“IPU”) located in the
+  include limiting JPMorgan Chase Bank, N.A.’s ability to                     EU or, with ECB approval, two IPUs if a single IPU would
+  conduct otherwise permissible activities, or imposing                       conflict with “home country” bank separation rules or
+  corrective capital or managerial requirements on the bank.                  impede resolvability. The Firm was granted approval by the
+                                                                              ECB in May 2023 to have two IPUs, which will hold the
+  FDIC deposit insurance. The FDIC deposit insurance fund
+                                                                              Firm’s EU banks and broker-dealers.
+  provides insurance coverage for certain deposits and is
+  funded through assessments on banks, including                              Restrictions on transactions with affiliates. JPMorgan
+  JPMorgan Chase Bank, N.A. The FDIC is required to                           Chase Bank, N.A. and its subsidiaries are subject to
+  maintain a minimum reserve ratio, which measures the                        restrictions imposed by federal law on extensions of credit
+  balance of reserves in the deposit insurance fund against                   to, investments in stock or securities of, and derivatives,
+  an estimate of FDIC-insured deposits, of 1.35%. The                         securities lending and certain other transactions with,
+  reserve ratio is currently below the statutory minimum and,                 JPMorgan Chase & Co. and certain other affiliates. These
+  in October 2022, the FDIC adopted a final rule to raise bank                restrictions prevent JPMorgan Chase & Co. and other
+  assessments and accelerate the time by which the reserve                    affiliates from borrowing from JPMorgan Chase Bank, N.A.
+  ratio would meet the statutory minimum. As a result, the                    and its subsidiaries unless the loans are secured in
+  FDIC has adopted a restoration plan to bring the reserve                    specified amounts and comply with certain other
+  ratio up to the required 1.35% by September 30, 2028, with                  requirements.
+  a longer-term target of maintaining a reserve ratio of 2%.
+                                                                              Dividend restrictions. Federal law imposes limitations on
+  FDIC powers upon a bank insolvency. Upon any insolvency                     the payment of dividends by national banks, such as
+  of JPMorgan Chase Bank, N.A., the FDIC could be                             JPMorgan Chase Bank, N.A. Refer to Note 26 for the
+  appointed as conservator or receiver under the Federal                      amount of dividends that JPMorgan Chase Bank, N.A.
+  Deposit Insurance Act. The FDIC has broad powers to                         could pay, at January 1, 2024, to JPMorgan Chase without
+  transfer assets and liabilities without the approval of the                 the approval of the banking regulators. The OCC and the
+  institution’s creditors.                                                    Federal Reserve also have authority to prohibit or limit the
+                                                                              payment of dividends of a bank subsidiary that they
+  Prompt corrective action. The Federal Deposit Insurance
+                                                                              supervise if, in the banking regulator’s opinion, payment of
+  Corporation Improvement Act of 1991 requires the relevant
+                                                                              a dividend would constitute an unsafe or unsound practice
+  federal banking regulator to take “prompt corrective action”
+                                                                              in light of the financial condition of the bank.
+  with respect to a depository institution if that institution does
+  not meet certain capital adequacy standards. The Federal                    Depositor preference. Under federal law, the claims of a
+  Reserve is also authorized to take appropriate action                       receiver of an insured depositary institution (“IDI”) for
+  against the parent BHC, such as JPMorgan Chase & Co.,                       administrative expense and the claims of holders of U.S.
+  based on the undercapitalized status of any bank                            deposit liabilities (including the FDIC and deposits in non-
+  subsidiary. In certain instances, the BHC would be required                 U.S. branches that are dually payable in the U.S. and in a
+  to guarantee the performance of the capital restoration plan                non-U.S. branch) have priority over the claims of other
+  for its undercapitalized subsidiary.                                        unsecured creditors of the institution, including depositors
+                                                                              in non-U.S. branches and public noteholders.
+  Heightened Supervisory Standards. In the U.S., the OCC
+  has established guidelines setting forth heightened                         Consumer supervision and regulation. JPMorgan Chase
+  standards for large banks, including minimum standards for                  and JPMorgan Chase Bank, N.A. are subject to supervision
+  the design and implementation of a risk governance                          and regulation in the U.S. by the Consumer Financial
+  framework for banks. Under these standards, a bank’s risk                   Protection Bureau (“CFPB”) with respect to federal
+  governance framework must ensure that the bank’s risk                       consumer protection laws, including laws relating to fair
+  profile is easily distinguished and separate from that of its               lending and the prohibition of unfair, deceptive or abusive
+  parent BHC for risk management purposes. The bank’s                         acts or practices in connection with the offer, sale or
+  board or risk committee is responsible for approving the                    provision of consumer financial products and services. The
+  bank’s risk governance framework, providing active                          CFPB also has jurisdiction over small business lending
+  oversight of the bank’s risk-taking activities, and holding                 activities with respect to fair lending and the Equal Credit
+  management accountable for adhering to the risk                             Opportunity Act. As part of its regulatory oversight, the
+  governance framework.                                                       CFPB has authority to take enforcement actions against
+                                                                              firms that offer certain products and services to consumers
+  The Firm’s banking entities in the EU and the U.K. are
+                                                                              using practices that are deemed to be unfair, deceptive or
+  subject to supervisory expectations published by the ECB
+                                                                              abusive. In February 2023, the CFPB proposed a rule that
+  and the PRA, respectively, addressing bank strategy,
+                                                                              would significantly reduce and limit the late payment fees
+  governance and risk management in the areas of climate
+                                                                              that credit card issuers, including the Firm, would be
+  change, operational resilience, reliance on IT systems and
+                                                                              permitted to charge to customers. In January 2024, the
+  third-party services, and resilience from macro-financial and
+                                                                              CFPB proposed a rule that could significantly restrict bank
+  geopolitical shocks. Further, the EU requires that certain
+                                                                              overdraft fees for certain insured depository institutions,
+  non-EU banking groups operating in the EU establish
+                                                                              including the Firm. The proposal would impose certain
+                                                                              requirements on overdraft
+
+
+
+   6
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                            9/333
+12/02/2026, 13:06                                                                   jpm-20231231
+
+
+
+
+  protections, similar to those that apply to credit cards,                   Investment management regulation:
+  unless the financial institution prices the overdraft fee at the            The Firm’s asset and wealth management businesses are
+  institution’s cost to provide the product or at a benchmark                 subject to significant regulation in jurisdictions around the
+  determined by the CFPB. In October 2023, the Federal                        world relating to, among other things, the safeguarding and
+  Reserve Board proposed to lower the maximum                                 management of client assets, offerings of funds and
+  interchange fee that large debit card issuers, including the                marketing activities. Certain of the Firm’s subsidiaries are
+  Firm, would be permitted to receive for a debit card                        registered with, and subject to oversight by, the SEC as
+  transaction. The proposal would also establish a process                    investment advisers and broker-dealers. The Firm’s
+  for automatically publishing an updated maximum fee                         registered investment advisers in the U.S. are subject to the
+  amount every other year going forward. The Firm’s                           fiduciary and other obligations imposed under the
+  consumer activities are also subject to regulation under                    Investment Advisers Act of 1940 and applicable state and
+  state statutes which are enforced by the Attorney General                   federal law. The Firm’s bank fiduciary activities are subject
+  or empowered agency of each state.                                          to supervision by the OCC.
+  In the U.K., the Firm operates a retail bank through J.P.                   The Firm’s asset and wealth management businesses
+  Morgan Europe Limited (“JPMEL”) and provides retail                         continue to be subject to ongoing rule-making and
+  investment management services through Nutmeg Saving                        implementation of new regulations and other guidance,
+  and Investment Limited (“Nutmeg”). JPMEL is regulated by                    including by the SEC and certain U.S. states with respect to
+  the PRA, and both JPMEL and Nutmeg are regulated by                         enhanced standards of conduct and conflicts of interest. In
+  the FCA with respect to their conduct of financial services in              October 2023, the Department of Labor (“DOL”) proposed a
+  the U.K., including obligations relating to the fair treatment              new “fiduciary” rule that could significantly expand the
+  of customers. JPMEL is also regulated by the U.K.                           scope for defining who can be deemed investment advice
+  Payment Systems Regulator with respect to its operation                     fiduciaries for purposes of retirement plans and individual
+  and use of payment systems. In addition, the retail                         retirement accounts (“IRAs”) under the Employee
+  businesses of JPMEL and Nutmeg are subject to U.K.                          Retirement Income Security Act of 1974, as amended.
+  consumer-protection legislation. The Consumer Duty in the                   Among the most significant impacts of the proposed rule
+  U.K. became effective in July 2023 for U.K.-regulated                       and related amendments to prohibited transaction
+  financial service providers, and encompasses requirements                   exemptions would be the impact on the fee and
+  on the types of products and services that should be                        compensation practices at financial institutions that offer
+  offered to consumers, how to balance value and pricing for                  investment recommendations to retirement clients,
+  consumers as well as how to promote good consumer                           including in the context of rollovers from an employer plan
+  understanding and post-sale support to consumers.                           to an IRA.
+  Securities and broker-dealer regulation:                                    Derivatives regulation:
+  The Firm conducts securities underwriting, dealing and                      The Firm is subject to comprehensive regulation of its
+  brokerage activities in the U.S. through J.P. Morgan                        derivatives businesses. In the U.S., JPMorgan Chase Bank,
+  Securities LLC and other non-bank broker-dealer                             N.A., J.P. Morgan Securities LLC and J.P. Morgan
+  subsidiaries, all of which are subject to regulations of the                Securities plc are registered with the CFTC as “swap
+  SEC, FINRA and the New York Stock Exchange, among                           dealers”. In addition, JPMorgan Chase Bank, N.A. and J.P.
+  others. The Firm conducts similar securities activities                     Morgan Securities LLC are registered with the SEC as
+  outside the U.S. subject to local regulatory requirements. In               “security-based swap dealers”. As a result, these entities
+  the U.K., those activities are primarily conducted by J.P.                  are subject to a comprehensive regulatory framework
+  Morgan Securities plc and in the EU, those activities are                   applicable to their swap or security-based swap activities,
+  primarily conducted by JPMSE. Broker-dealers are subject                    including capital requirements, rules requiring the
+  to laws and regulations covering all aspects of the                         collateralization of uncleared swaps and security-based
+  securities business, including sales and trading practices,                 swaps, rules regarding segregation of counterparty
+  securities offerings, publication of research reports, use of               collateral, business conduct and documentation standards,
+  customer funds, the financing of client purchases, capital                  rules requiring the central clearing of standardized over-the-
+  structure, record-keeping and retention, and the conduct of                 counter (“OTC”) derivatives, requirements that certain
+  their directors, officers and employees. Refer to Broker-                   standardized OTC swaps be traded on regulated trading
+  dealer regulatory capital on page 101 for information                       venues, record-keeping and reporting obligations, and anti-
+  concerning the capital of J.P. Morgan Securities LLC and                    fraud and anti-manipulation requirements. Similar
+  J.P. Morgan Securities plc. In addition, the Firm's sales and               requirements have also been established in the European
+  trading activities, which are conducted through both bank                   Union (“EU”) under the European Market Infrastructure
+  and non-bank subsidiaries, are subject to laws and                          Regulation (“EMIR”) and the Markets in Financial
+  regulations relating to market conduct, including                           Instruments Directive (“MiFID II”), as well as in the U.K. and
+  prohibitions on manipulative or anti-competitive practices.                 other jurisdictions around the world.
+
+
+
+                                                                                                                                               7
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                         10/333
+12/02/2026, 13:06                                                                   jpm-20231231
+  Part I
+
+
+  J.P. Morgan Securities LLC is also registered with the                      supplemented by local regulations or guidelines. The U.K.
+  CFTC as a futures commission merchant and is a member                       regulators have also instituted regulations and guidelines
+  of the National Futures Association.                                        on compensation policies, which diverge in certain areas
+                                                                              from EU rules. The Firm expects that the implementation of
+  Data, privacy and cybersecurity regulation:
+                                                                              regulatory guidelines regarding compensation in the U.S.
+  The Firm and its subsidiaries are subject to laws, rules and
+                                                                              and other countries will continue to evolve, and may affect
+  regulations globally concerning data, including data
+                                                                              the manner in which the Firm structures its compensation
+  protection, consumer protection, privacy, cybersecurity and
+                                                                              programs and practices.
+  related matters. These laws, rules and regulations are
+  constantly evolving, subject to interpretation, remain a                    Sustainability:
+  focus of regulators globally, may be enforced by private                    Policymakers in the U.K. and the EU have continued to
+  parties or government bodies, and continue to have a                        implement and enhance sustainability-related initiatives and
+  significant impact on all of the Firm’s businesses and                      disclosure requirements. The Corporate Sustainability
+  operations.                                                                 Reporting Directive (“CSRD”) will replace and significantly
+                                                                              expand the scope and content of certain EU ESG reporting
+  The Bank Secrecy Act and Economic Sanctions:
+                                                                              requirements, with phased-in requirements starting with
+  The Bank Secrecy Act (“BSA”) requires all financial
+                                                                              fiscal years in 2024. In addition, in December 2023, the EU
+  institutions, including banks and securities broker-dealers,
+                                                                              reached agreement on the Corporate Sustainability Due
+  to establish a risk-based system of internal controls
+                                                                              Diligence Directive (“CSDDD”). The CSDDD sets
+  reasonably designed to prevent money laundering and the
+                                                                              mandatory due diligence obligations for companies to
+  financing of terrorism. The BSA includes a variety of record-
+                                                                              address actual and potential human rights violations and
+  keeping and reporting requirements, as well as due
+                                                                              environmental adverse impacts stemming from their own
+  diligence/know-your-customer documentation
+                                                                              operations and business relationships, including the
+  requirements. The Firm is also subject to the regulations
+                                                                              activities of certain companies with which they have
+  and economic sanctions programs administered and
+                                                                              established business relationships and also requires the
+  enforced by the U.S. Treasury’s Office of Foreign Assets
+                                                                              adoption of company-specific climate-related transition
+  Control (“OFAC”) and EU and U.K. authorities which target
+                                                                              plans. Both the CSRD and CSDDD will impact certain of
+  entities or individuals that are, or are located in countries
+                                                                              the Firm’s EU and non-EU entities.
+  that are, involved in activities including terrorism, hostilities,
+  embezzlement or human rights violations. The Firm is also
+  subject to economic sanctions laws, rules and regulations
+  in other jurisdictions in which it operates, including those
+  that conflict with or prohibit a firm such as JPMorgan Chase
+  from complying with certain laws, rules and regulations to
+  which it is otherwise subject.
+  Anti-Corruption:
+  The Firm is subject to laws and regulations relating to
+  corrupt and illegal payments to government officials and
+  others in the jurisdictions in which it operates, including the
+  U.S. Foreign Corrupt Practices Act and the U.K. Bribery
+  Act.
+  Compensation practices:
+  The Firm’s compensation practices are subject to oversight
+  by the Federal Reserve, as well as other agencies. The
+  Federal Reserve has jointly issued guidance with the FDIC
+  and the OCC that is designed to ensure that incentive
+  compensation paid by banking organizations does not
+  encourage imprudent risk-taking that threatens the
+  organizations’ safety and soundness. The Financial Stability
+  Board (“FSB”) has also established standards covering
+  compensation principles for banks. The Firm’s
+  compensation practices are also subject to regulation and
+  oversight by regulators in other jurisdictions, notably the
+  Fifth Capital Requirements Directive (“CRD V”), as
+  implemented in the EU and as largely adopted in the U.K,
+  which includes compensation-related provisions. The
+  European Banking Authority has instituted guidelines on
+  compensation policies including under CRD V which in
+  certain countries (such as Germany) are implemented or
+
+
+
+   8
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                       11/333
+12/02/2026, 13:06                                                                   jpm-20231231
+
+
+
+
+                                                                              • Liquidity risks, including the risk that JPMorgan Chase’s
+  Item 1A. Risk Factors.                                                        liquidity could be impaired by market-wide illiquidity or
+                                                                                disruption, unforeseen liquidity or capital requirements,
+  The following discussion sets forth the material risk factors                 the inability to sell assets, default by a significant market
+  that could affect JPMorgan Chase’s financial condition and                    participant, unanticipated outflows of cash or collateral, or
+  operations. Readers should not consider any descriptions                      lack of market or customer confidence in JPMorgan
+  of these factors to be a complete set of all potential risks                  Chase; the dependence of JPMorgan Chase & Co. on the
+  that could affect the Firm. Any of the risk factors discussed                 cash flows of its subsidiaries; and the potential adverse
+  below could by itself, or combined with other factors,                        effects that any downgrade in any of JPMorgan Chase’s
+  materially and adversely affect JPMorgan Chase’s                              credit ratings may have on its liquidity and cost of
+  business, results of operations, financial condition, capital                 funding.
+  position, liquidity, competitive position or reputation,
+                                                                              • Capital risks, including the risk that any failure by or
+  including by materially increasing expenses or decreasing
+                                                                                inability of JPMorgan Chase to maintain the required level
+  revenues, which could result in material losses or a
+                                                                                and composition of capital, or unfavorable changes in
+  decrease in earnings.
+                                                                                applicable capital requirements, could limit JPMorgan
+  Summary                                                                       Chase’s ability to distribute capital to shareholders or to
+  The principal risk factors that could adversely affect                        support its business activities.
+  JPMorgan Chase’s business, results of operations, financial
+                                                                              • Operational risks, including risks associated with
+  condition, capital position, liquidity, competitive position or
+                                                                                JPMorgan Chase’s dependence on its operational
+  reputation include:
+                                                                                systems, its ability to maintain appropriately-staffed
+  • Regulatory risks, including the impact that applicable                      workforces and the competence, integrity, health and
+    laws, rules and regulations in the highly-regulated and                     safety of its employees, as well as the systems and
+    supervised financial services industry, as well as changes                  employees of third parties, market participants and
+    to or in the application, interpretation or enforcement of                  service providers; the potential negative effects of failing
+    those laws, rules and regulations, can have on JPMorgan                     to identify and address operational risks related to the
+    Chase’s business and operations, including JPMorgan                         failure of internal or external operational systems, the
+    Chase incurring additional costs associated with                            introduction of or changes to products, services and
+    assessments, levies or other governmental charges; the                      delivery platforms or the adoption of new technologies;
+    ways in which differences in financial services regulation                  legal and regulatory risks related to safeguarding
+    and supervision in different jurisdictions or with respect to               personal information; the harm that could be caused by a
+    certain competitors can negatively impact JPMorgan                          successful cyber attack affecting JPMorgan Chase or by
+    Chase’s business; the penalties and collateral                              other extraordinary events; risks related to acquisitions,
+    consequences, and higher compliance and operational                         including the acquisition of certain assets and liabilities of
+    costs, that JPMorgan Chase may incur when resolving a                       First Republic Bank; risks associated with JPMorgan
+    regulatory investigation; the ways in which less                            Chase’s risk management framework and control
+    predictable legal and regulatory frameworks in certain                      environment, its models and estimations and associated
+    jurisdictions can negatively impact JPMorgan Chase’s                        judgments used in its stress testing and financial
+    operations and financial results; and the losses that                       statements, and controls over disclosure and financial
+    security holders will absorb if JPMorgan Chase were to                      reporting; and potential adverse effects of failing to
+    enter into a resolution.                                                    comply with heightened regulatory and other standards
+                                                                                for the oversight of vendors and other service providers.
+  • Political risks, including the potential negative effects on
+    JPMorgan Chase’s businesses due to economic                               • Strategic risks, including the damage to JPMorgan
+    uncertainty or instability caused by political                              Chase’s competitive standing and results that could occur
+    developments.                                                               if management fails to develop and execute effective
+                                                                                business strategies; risks associated with the significant
+  • Market risks, including the effects that economic and
+                                                                                and increasing competition that JPMorgan Chase faces;
+    market events and conditions, governmental policies,
+                                                                                and the potential adverse impacts of climate change on
+    changes in interest rates and credit spreads, and market
+                                                                                JPMorgan Chase’s business operations, clients and
+    fluctuations can have on JPMorgan Chase’s consumer
+                                                                                customers.
+    and wholesale businesses and its investment and
+    market-making positions and on JPMorgan Chase’s                           • Conduct risks, including the negative impact that can
+    earnings and its liquidity and capital levels.                              result from the actions or misconduct of employees,
+                                                                                including any failure of employees to conduct themselves
+  • Credit risks, including potential negative effects from
+                                                                                in accordance with JPMorgan Chase’s expectations,
+    adverse changes in the financial condition of clients,
+                                                                                policies and practices.
+    customers, counterparties, custodians and central
+    counterparties; the potential for losses due to declines in               • Reputation risks, including the potential adverse effects
+    the value of collateral in stressed market conditions; and                  on JPMorgan Chase’s relationships with its clients,
+    potential negative impacts from concentrations of credit
+    risk with respect to clients, customers, counterparties and
+    other market participants.
+
+
+
+                                                                                                                                                 9
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                           12/333
+12/02/2026, 13:06                                                                   jpm-20231231
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                  13/333
+12/02/2026, 13:06                                                                   jpm-20231231
+  Part I
+
+
+     customers, shareholders, regulators and other                            • limit the products and services that it offers
+     stakeholders that could arise from employee misconduct,
+                                                                              • reduce the liquidity that it can provide through its market-
+     security breaches, inadequate risk management,
+                                                                                making activities
+     compliance or operational failures, litigation and
+     regulatory investigations, failure to satisfy expectations               • refrain from engaging in business opportunities that it
+     concerning environmental, social and governance                            might otherwise pursue
+     concerns, failure to effectively manage conflicts of
+                                                                              • pay higher taxes (including as part of any minimum global
+     interest or to satisfy fiduciary obligations, or other factors
+                                                                                tax regime), assessments, levies or other governmental
+     that could damage JPMorgan Chase’s reputation.
+                                                                                charges, including in connection with the resolution of tax
+  • Country risks, including potential impacts on JPMorgan                      examinations
+    Chase’s businesses from an outbreak or escalation of
+                                                                              • incur losses, including with respect to fraudulent
+    hostilities between countries or within a country or region;
+                                                                                transactions perpetrated against its customers
+    and the potential adverse effects of local economic,
+    political, regulatory and social factors on JPMorgan                      • dispose of certain assets, and do so at times or prices
+    Chase’s business and revenues in certain countries in                       that are disadvantageous
+    which it operates.
+                                                                              • impose restrictions on certain business activities, or
+  • People risks, including the criticality of attracting and
+                                                                              • increase the prices that it charges for products and
+    retaining qualified and diverse employees; and the
+                                                                                services, which could reduce the demand for them.
+    potential adverse effects of unfavorable changes in
+    immigration or travel policies on JPMorgan Chase’s                        Any failure by JPMorgan Chase to comply with the laws,
+    workforce.                                                                rules and regulations to which it is subject could result in:
+  • Legal risks, including those relating to litigation and                   • increased regulatory and supervisory scrutiny
+    regulatory and government investigations.
+                                                                              • regulatory and governmental enforcement actions
+  The above summary is subject in its entirety to the
+                                                                              • the imposition of fines, penalties or other sanctions
+  discussion of the risk factors set forth below.
+                                                                              • increased exposure to litigation, or
+  Regulatory
+                                                                              • harm to its reputation.
+  JPMorgan Chase’s businesses are highly regulated,
+  and the laws, rules and regulations that apply to                           Differences and inconsistencies in financial services
+  JPMorgan Chase have a significant impact on its                             regulation and supervision can negatively impact
+  business and operations.                                                    JPMorgan Chase’s businesses, operations and
+                                                                              financial results.
+  JPMorgan Chase is a financial services firm with operations
+  worldwide. JPMorgan Chase must comply with the laws,                        The content and application of laws, rules and regulations
+  rules and regulations that apply to its operations in all of the            affecting financial services firms can vary according to
+  jurisdictions around the world in which it does business,                   factors such as the size of the firm, the jurisdiction in which
+  and financial services firms such as JPMorgan Chase are                     it is organized or operates, and other criteria. For example:
+  subject to extensive and constantly-evolving regulation and
+                                                                              • larger firms such as JPMorgan Chase are often subject to
+  supervision.
+                                                                                more stringent supervision, regulation and regulatory
+  The regulation and supervision of JPMorgan Chase                              scrutiny
+  significantly affects the way that it conducts its business
+                                                                              • financial technology companies and other non-traditional
+  and structures its operations, and JPMorgan Chase could
+                                                                                competitors may not be subject to banking regulation, or
+  be required to make changes to its business and operations
+                                                                                may be supervised by a national or state regulatory
+  in response to supervisory expectations or decisions or to
+                                                                                agency that does not have the same resources or
+  new or changed laws, rules and regulations. These types of
+                                                                                regulatory priorities as the regulatory agencies which
+  developments could result in JPMorgan Chase incurring
+                                                                                supervise more diversified financial services firms, or
+  additional costs or experiencing a reduction in revenues to
+  comply with applicable laws, rules and regulations, which                   • the financial services regulatory and supervisory
+  could reduce its profitability. Furthermore, JPMorgan                         framework in a particular jurisdiction may favor financial
+  Chase’s entry into or acquisition of a new business or an                     institutions that are based in that jurisdiction.
+  increase in its principal investments may require JPMorgan
+                                                                              These types of differences in the regulatory and
+  Chase to comply with additional laws, rules, and
+                                                                              supervisory framework can result in JPMorgan Chase
+  regulations.
+                                                                              losing market share to competitors that are less regulated
+  In response to new and existing laws, rules and regulations                 or not subject to regulation, especially with respect to
+  and expanded supervision, JPMorgan Chase has in the                         unregulated financial products.
+  past been and could in the future be, required to:
+
+
+
+   10
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                             14/333
+12/02/2026, 13:06                                                                   jpm-20231231
+
+
+
+
+  There can also be significant differences in the ways that                  • change the prices that it charges for its products and
+  similar regulatory initiatives affecting the financial services               services
+  industry are implemented in the U.S. and in other countries
+                                                                              • curtail the products and services that it offers to its
+  and regions in which JPMorgan Chase does business. For
+                                                                                customers and clients
+  example, when adopting rules that are intended to
+  implement a global regulatory or supervisory standard, a                    • curtail other business opportunities, including acquisitions
+  national regulator may introduce additional or more                           or principal investments, that it otherwise would have
+  restrictive requirements, which can create competitive                        pursued
+  disadvantages for financial services firms, such as
+                                                                              • become subject to regulatory fines, penalties or other
+  JPMorgan Chase, that may be subject to those enhanced
+                                                                                sanctions, or
+  regulations.
+                                                                              • incur higher costs for complying with different legal and
+  In addition, certain national and multi-national bodies and
+                                                                                regulatory frameworks.
+  governmental agencies outside the U.S. have adopted
+  laws, rules or regulations that may conflict with or prohibit               Any or all of these factors could harm JPMorgan Chase’s
+  JPMorgan Chase from complying with laws, rules and                          ability to compete against other firms that are not subject to
+  regulations to which it is otherwise subject, creating conflict             the same laws, rules and regulations or supervisory
+  of law issues that also increase its risk of non-compliance in              oversight, or harm JPMorgan Chase’s businesses, results
+  those jurisdictions.                                                        of operations and profitability.
+  Legislative and regulatory initiatives outside the U.S. could               Resolving regulatory investigations can subject
+  require JPMorgan Chase to make significant modifications                    JPMorgan Chase to significant penalties and collateral
+  to its operations and legal entity structure in the relevant                consequences, and could result in higher compliance
+  countries or regions in order to comply with those                          costs or restrictions on its operations.
+  requirements. These include laws, rules and regulations
+                                                                              JPMorgan Chase is subject to heightened oversight and
+  that have been adopted or proposed, as well as regulatory
+                                                                              scrutiny from regulatory authorities in many jurisdictions.
+  expectations, relating to:
+                                                                              JPMorgan Chase has paid significant fines, provided other
+  • the establishment of locally-based intermediate holding                   monetary relief, incurred other penalties and experienced
+    companies or operating subsidiaries                                       other repercussions in connection with resolving
+                                                                              investigations and enforcement actions by governmental
+  • requirements to maintain minimum amounts of capital or
+                                                                              agencies. JPMorgan Chase could become subject to
+    liquidity in locally-based subsidiaries
+                                                                              similar regulatory or governmental resolutions or other
+  • the implementation of processes within locally-based                      actions in the future, and addressing the requirements of
+    subsidiaries to comply with local regulatory requirements                 any such resolutions or actions could result in JPMorgan
+    or expectations                                                           Chase incurring higher operational and compliance costs,
+                                                                              including devoting substantial resources to the required
+  • the separation (or “ring fencing”) of core banking products
+                                                                              remediation or needing to comply with other restrictions.
+    and services from markets activities
+                                                                              In connection with resolving specific regulatory
+  • requirements for the orderly resolution of financial
+                                                                              investigations or enforcement actions, certain regulators
+    institutions
+                                                                              have required JPMorgan Chase and other financial
+  • requirements for executing or settling transactions on                    institutions to admit wrongdoing with respect to the
+    exchanges or through central counterparties (“CCPs”), or                  activities that gave rise to the resolution. These types of
+    for depositing funds with other financial institutions or                 admissions can lead to:
+    clearing and settlement systems
+                                                                              • greater exposure in litigation
+  • position limits and reporting rules for derivatives
+                                                                              • damage to JPMorgan Chase’s reputation
+  • governance and accountability regimes
+                                                                              • disqualification from doing business with certain clients or
+  • conduct of business and control requirements, and                           customers, or in specific jurisdictions, or
+  • restrictions on compensation.                                             • other direct and indirect adverse effects.
+  These types of differences, inconsistencies and conflicts in                Furthermore, government officials in the U.S. and other
+  financial services regulation have required and could in the                countries have demonstrated a willingness to bring criminal
+  future require JPMorgan Chase to:                                           actions against financial institutions and have required that
+                                                                              institutions plead guilty to criminal offenses or admit other
+  • divest assets or restructure its operations
+                                                                              wrongdoing in connection with resolving regulatory
+  • maintain higher levels of capital and liquidity, or absorb                investigations or enforcement actions. Resolutions of this
+    increased capital and liquidity costs                                     type can have significant collateral consequences for the
+                                                                              subject financial institution, including:
+  • incur higher operational and compliance costs
+
+
+
+                                                                                                                                             11
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                           15/333
+12/02/2026, 13:06                                                                   jpm-20231231
+  Part I
+
+
+  • loss of clients, customers and business                                   • conflicting or ambiguous laws, rules and regulations, or
+                                                                                the inconsistent application or interpretation of existing
+  • restrictions on offering certain products or services, and
+                                                                                laws, rules and regulations
+  • losing permission to operate certain businesses, either
+                                                                              • uncertainty concerning the enforceability of intellectual
+    temporarily or permanently.
+                                                                                property rights or contractual or other obligations
+  JPMorgan Chase expects that:
+                                                                              • difficulty in competing in economies in which the
+  • it and other financial services firms will continue to be                   government controls or protects all or a portion of the
+    subject to heightened regulatory scrutiny and                               local economy or specific businesses, or where graft or
+    governmental investigations and enforcement actions                         corruption may be pervasive
+  • governmental authorities will continue to require that                    • the threat of regulatory investigations, civil litigations or
+    financial institutions be penalized for actual or deemed                    criminal prosecutions that are arbitrary or otherwise
+    violations of law with formal and punitive enforcement                      contrary to established legal principles in other parts of
+    actions, including the imposition of significant monetary                   the world, and
+    and other sanctions, rather than resolving these matters
+                                                                              • the termination of licenses required to operate in the local
+    through informal supervisory actions; and
+                                                                                market or the suspension of business relationships with
+  • governmental authorities will be more likely to pursue                      governmental bodies.
+    formal enforcement actions and resolutions against
+                                                                              If the application of the laws, rules and regulations in any
+    JPMorgan Chase to the extent that it has previously been
+                                                                              jurisdiction is susceptible to producing inconsistent or
+    subject to other governmental investigations or
+                                                                              unexpected outcomes, this can create a more difficult
+    enforcement actions.
+                                                                              environment in which JPMorgan Chase conducts its
+  If JPMorgan Chase fails to meet the requirements of any                     business and could negatively affect JPMorgan Chase’s
+  resolution of a governmental investigation or enforcement                   operations and reduce its earnings with respect to that
+  action, or to maintain risk and control processes that meet                 jurisdiction. For example, conducting business could
+  the heightened standards and expectations of its                            require JPMorgan Chase to devote significant additional
+  regulators, it could be required to, among other things:                    resources to understanding, and monitoring changes in,
+                                                                              local laws, rules and regulations, as well as structuring its
+  • enter into further resolutions of investigations or
+                                                                              operations to comply with local laws, rules and regulations
+    enforcement actions
+                                                                              and implementing and administering related internal
+  • pay additional regulatory penalties or enter into                         policies and procedures.
+    judgments, or
+                                                                              There can be no assurance that JPMorgan Chase will
+  • accept material regulatory restrictions on, or changes in                 always be successful in its efforts to fully understand and to
+    the management of, its businesses.                                        conduct its business in compliance with the laws, rules and
+                                                                              regulations of all of the jurisdictions in which it operates,
+  In these circumstances, JPMorgan Chase could also
+                                                                              and the risk of non-compliance can be greater in
+  become subject to other sanctions, or to prosecution or civil
+                                                                              jurisdictions that have less predictable legal and regulatory
+  litigation with respect to the conduct that gave rise to an
+                                                                              frameworks.
+  investigation or enforcement action. In addition, JPMorgan
+  Chase can be subject to higher costs or requests for                        Requirements for the orderly resolution of JPMorgan
+  additional capital in connection with the resolution of                     Chase could result in JPMorgan Chase having to
+  governmental investigations and enforcement actions                         restructure or reorganize its businesses and could
+  involving newly-acquired businesses, companies in which                     increase its funding or operational costs or curtail its
+  JPMorgan Chase has made principal investments, parties                      businesses.
+  to joint ventures with JPMorgan Chase, and vendors with
+                                                                              JPMorgan Chase is required under Federal Reserve and
+  which JPMorgan Chase does business.
+                                                                              FDIC rules to prepare and submit periodically to those
+  JPMorgan Chase’s operations and financial results can                       agencies a detailed plan for rapid and orderly resolution in
+  be negatively impacted in jurisdictions with less                           bankruptcy, without extraordinary government support, in
+  predictable legal and regulatory frameworks.                                the event of material financial distress or failure. The
+                                                                              evaluation of JPMorgan Chase’s resolution plan by these
+  JPMorgan Chase conducts existing and new business in                        agencies may change, and the requirements for resolution
+  certain countries, states, municipalities, territories and other            plans may be modified from time to time. Any such
+  jurisdictions in which the application of the rule of law is                determinations or modifications could result in JPMorgan
+  inconsistent or less predictable, including with respect to:                Chase needing to make changes to its legal entity structure
+  • the absence of a statutory or regulatory basis or guidance                or to certain internal or external activities, which could
+    for engaging in specific types of business or transactions                increase its funding or operational costs, or hamper its
+                                                                              ability to serve clients and customers.
+
+
+
+   12
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                               16/333
+12/02/2026, 13:06                                                                   jpm-20231231
+
+
+
+
+  If the Federal Reserve and the FDIC were both to                            has not formally adopted a single point of entry resolution
+  determine that a resolution plan submitted by JPMorgan                      strategy.
+  Chase has deficiencies, they could jointly impose more
+                                                                              If the Parent Company were to approach, or enter into, a
+  stringent capital, leverage or liquidity requirements or
+                                                                              resolution, none of the Parent Company, the Federal
+  restrictions on JPMorgan Chase’s growth, activities or
+                                                                              Reserve or the FDIC is obligated to follow JPMorgan
+  operations. The agencies could also require that JPMorgan
+                                                                              Chase’s preferred resolution strategy, and losses to holders
+  Chase restructure, reorganize or divest assets or
+                                                                              of eligible LTD and other debt and equity securities of the
+  businesses in ways that could materially and adversely
+                                                                              Parent Company, under whatever strategy is ultimately
+  affect JPMorgan Chase’s operations and strategy.
+                                                                              followed, could be greater than they might have been under
+  Holders of JPMorgan Chase & Co.’s debt and equity                           JPMorgan Chase’s preferred strategy.
+  securities will absorb losses if it were to enter into a
+                                                                              Political
+  resolution.
+                                                                              Economic uncertainty or instability caused by political
+  Federal Reserve rules require that JPMorgan Chase & Co.
+                                                                              or geopolitical developments can negatively impact
+  (the “Parent Company”) maintain minimum levels of
+                                                                              JPMorgan Chase’s businesses.
+  unsecured external long-term debt and other loss-
+  absorbing capacity with specific terms (“eligible LTD”) for                 Political developments in the U.S. and other countries can
+  purposes of recapitalizing JPMorgan Chase’s operating                       cause uncertainty in the economic environment and market
+  subsidiaries if the Parent Company were to enter into a                     conditions in which JPMorgan Chase operates its
+  resolution either:                                                          businesses. Certain governmental policy initiatives, as well
+                                                                              as heightened geopolitical tensions, could significantly
+  • in a bankruptcy proceeding under Chapter 11 of the U.S.
+                                                                              affect U.S. and global economic growth and cause higher
+    Bankruptcy Code, or
+                                                                              volatility in the financial markets, including:
+  • in a receivership administered by the FDIC under Title II
+                                                                              • an outbreak or escalation of hostilities, or other
+    of the Dodd-Frank Act (“Title II”).
+                                                                                geopolitical instabilities
+  If the Parent Company were to enter into a resolution,
+                                                                              • monetary policies and actions taken by the Federal
+  holders of eligible LTD and other debt and equity securities
+                                                                                Reserve and other central banks or governmental
+  of the Parent Company will absorb the losses of the Parent
+                                                                                authorities, including any sustained large-scale asset
+  Company and its subsidiaries.
+                                                                                purchases or any suspension or reversal of those actions
+  The preferred “single point of entry” strategy under
+                                                                              • fiscal policies, including with respect to taxation and
+  JPMorgan Chase’s resolution plan contemplates that only
+                                                                                spending
+  the Parent Company would enter bankruptcy
+  proceedings. JPMorgan Chase’s subsidiaries would be                         • actions that governments take or fail to take in response
+  recapitalized, as needed, so that they could continue                         to the effects of health emergencies, the spread of
+  normal operations or subsequently be divested or wound                        infectious diseases, epidemics or pandemics, as well as
+  down in an orderly manner. As a result, the Parent                            the effectiveness of any actions taken
+  Company’s losses and any losses incurred by its
+                                                                              • governmental actions or initiatives relating to climate risk,
+  subsidiaries would be imposed first on holders of the Parent
+                                                                                or more generally, the impact of business activities on
+  Company’s equity securities and thereafter on its
+                                                                                environmental, social and governance (“ESG”) matters,
+  unsecured creditors, including holders of eligible LTD and
+                                                                                and the management of climate and other ESG-related
+  other debt securities. Claims of holders of those securities
+                                                                                risks
+  would have a junior position to the claims of creditors of
+  JPMorgan Chase’s subsidiaries and to the claims of priority                 • isolationist foreign policies
+  (as determined by statute) and secured creditors of the
+                                                                              • economic or financial sanctions
+  Parent Company.
+                                                                              • the implementation of tariffs and other protectionist trade
+  Accordingly, in a resolution of the Parent Company in
+                                                                                policies, or
+  bankruptcy, holders of eligible LTD and other debt
+  securities of the Parent Company would realize value only                   • other governmental policies or actions adopted or taken
+  to the extent available to the Parent Company as a                            in response to political or social pressures.
+  shareholder of JPMorgan Chase Bank, N.A. and its other
+                                                                              These types of political developments, and uncertainty
+  subsidiaries, and only after any claims of priority and
+                                                                              about the possible outcomes of these developments, could:
+  secured creditors of the Parent Company have been fully
+  repaid.                                                                     • erode investor confidence in the U.S. economy and
+                                                                                financial markets, which could potentially undermine the
+  The FDIC has similarly indicated that a single point of entry
+                                                                                status of the U.S. dollar as a safe haven currency
+  recapitalization model could be a desirable strategy to
+  resolve a systemically important financial institution, such
+  as the Parent Company, under Title II. However, the FDIC
+
+
+
+                                                                                                                                              13
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                           17/333
+12/02/2026, 13:06                                                                   jpm-20231231
+  Part I
+
+
+  • provoke retaliatory countermeasures by other countries                    products and services to its clients and customers, and
+    and otherwise heighten tensions in regulatory,                            weaken its results of operations and financial condition or
+    enforcement or diplomatic relations                                       credit rating.
+  • increase concerns about whether the U.S. government                       JPMorgan Chase's business and results of operations may
+    will be funded, and its outstanding debt serviced, at any                 also be adversely affected by actions or initiatives by
+    particular time                                                           national, state or local governmental authorities that:
+  • lead to the withdrawal of government support for                          • seek to discourage financial institutions from doing
+    agencies and enterprises such as the U.S. Federal                           business with companies engaged in certain industries,
+    National Mortgage Association and the U.S. Federal                          or conversely, to penalize financial institutions that elect
+    Home Loan Mortgage Corporation (together, the “U.S.                         not to do business with such companies, or
+    GSEs”)
+                                                                              • mandate specific business practices that companies
+  • result in periodic shutdowns of the U.S. government or                      operating in the relevant jurisdiction must adopt.
+    governments in other countries
+                                                                              Because governmental policies in one jurisdiction may
+  • increase investor reliance on actions by the Federal                      differ or conflict with those in other jurisdictions, JPMorgan
+    Reserve or other central banks, or influence investor                     Chase may face negative consequences regardless of the
+    perceptions concerning government support of sectors of                   course of action it takes or elects not to take, including:
+    the economy or the economy as a whole
+                                                                              • restrictions or prohibitions on doing business within a
+  • adversely affect the financial condition or credit ratings of               particular jurisdiction, or with governmental entities in a
+    clients and counterparties with which JPMorgan Chase                        jurisdiction
+    does business, or
+                                                                              • the threat of enforcement actions, including under
+  • cause JPMorgan Chase to refrain from engaging in                            antitrust or other anti-competition laws, rules and
+    business opportunities that it might otherwise pursue.                      regulations, and
+  These factors could lead to:                                                • harm to its reputation arising from public criticism,
+                                                                                including from politicians, activists and other
+  • slower growth rates, rising inflation or recession
+                                                                                stakeholders.
+  • greater market volatility
+                                                                              JPMorgan Chase has been prohibited from engaging in
+  • a contraction of available credit and the widening of credit              certain business activities in specific jurisdictions as a result
+    spreads                                                                   of these types of governmental actions, and there is no
+                                                                              assurance that it will not face similar restrictions on its
+  • erosion of adequate risk premium on certain financial
+                                                                              business and operations in the future.
+    assets
+                                                                              In addition, JPMorgan Chase's relationships or ability to
+  • diminished investor and consumer confidence
+                                                                              transact with clients and customers, and with governmental
+  • lower investments in a particular country or sector of the                or regulatory bodies in jurisdictions in which JPMorgan
+    economy                                                                   Chase does business, could be adversely affected if its
+                                                                              decisions with respect to doing business with companies in
+  • large-scale sales of government debt and other debt and
+                                                                              certain sensitive industries are perceived to harm those
+    equity securities in the U.S. and other countries
+                                                                              companies or to align with particular political viewpoints.
+  • reduced commercial activity among trading partners                        Furthermore, JPMorgan Chase's participation in or
+                                                                              association with certain environmental and social industry
+  • the potential for a currency redenomination by a
+                                                                              groups or initiatives could be viewed by activists or
+    particular country
+                                                                              governmental authorities as boycotting or other
+  • the possible departure of a country from, or the                          discriminatory business behavior.
+    dissolution or formation of, a political or economic alliance
+                                                                              Market
+    or treaty
+                                                                              Economic and market events and conditions can
+  • potential expropriation or nationalization of assets,
+                                                                              materially affect JPMorgan Chase’s businesses and
+    including client assets, or
+                                                                              investment and market-making positions.
+  • other market dislocations, including unfavorable
+                                                                              JPMorgan Chase’s results of operations can be negatively
+    economic conditions that could spread from a particular
+                                                                              affected by adverse changes in any of the following:
+    country or region to other countries or regions.
+                                                                              • investor, consumer and business sentiment
+  Any of these potential outcomes could cause JPMorgan
+  Chase to suffer losses on its market-making positions or in                 • events that reduce confidence in the financial markets
+  its investment portfolio, reduce its liquidity and capital
+                                                                              • inflation, deflation or recession
+  levels, increase the allowance for credit losses or lead to
+  higher net charge-offs, hamper its ability to deliver
+
+
+
+   14
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                              18/333
+12/02/2026, 13:06                                                                   jpm-20231231
+
+
+
+
+  • high unemployment or, conversely, a tightening labor                      • the level of inflation and its effect on prices for goods and
+    market                                                                      services
+  • the availability and cost of capital, liquidity and credit                • consumer and small business confidence levels, and
+  • levels and volatility of interest rates, credit spreads and               • changes in consumer spending or in the level of
+    market prices for currencies, equities and commodities,                     consumer debt.
+    as well as the duration of any such changes
+                                                                              Heightened levels of unemployment or underemployment
+  • the economic effects of an outbreak or escalation of                      that result in reduced personal and household income could
+    hostilities, terrorism or other geopolitical instabilities,               negatively affect consumer credit performance to the extent
+    cyber attacks, climate change, natural disasters, severe                  that consumers are less able to service their debts. In
+    weather conditions, health emergencies, the spread of                     addition, sustained low growth, low or negative interest
+    infectious diseases, epidemics or pandemics or other                      rates, inflationary pressures or recessionary conditions
+    extraordinary events beyond JPMorgan Chase’s control,                     could diminish customer demand for the products and
+    and                                                                       services offered by JPMorgan Chase’s consumer
+                                                                              businesses.
+  • the strength of the U.S. and global economies.
+  All of these are affected by global economic, market and                    Adverse economic conditions could also lead to an
+  political events and conditions, as well as regulatory                      increase in delinquencies, additions to the allowance for
+  restrictions.                                                               credit losses and higher net charge-offs, which can reduce
+                                                                              JPMorgan Chase’s earnings. These consequences could
+  In addition, JPMorgan Chase’s investment portfolio and                      be significantly worse in certain geographies, including
+  market-making businesses can suffer losses due to                           where declining industrial or manufacturing activity has
+  unanticipated market events, including:                                     resulted in or could result in higher levels of unemployment,
+                                                                              or where high levels of consumer debt, such as outstanding
+  • severe declines in asset values                                           student loans, could impair the ability of customers to pay
+  • unexpected credit events                                                  their other consumer loan obligations.
+  • unforeseen events or conditions that may cause                            JPMorgan Chase’s earnings from its consumer businesses
+    previously uncorrelated factors to become correlated (and                 could also be adversely affected by governmental policies
+    vice versa)                                                               and actions that affect consumers, including:
+  • the inability to effectively hedge risks related to market-               • policies and initiatives relating to medical insurance,
+    making and investment portfolio positions, or                               education, immigration, employment status and housing
+  • other market risks that may not have been appropriately                   • laws, rules and regulations relating specifically to the
+    taken into account in the development, structuring or                       financial services industry, such as limitations on late
+    pricing of a financial instrument.                                          payment, overdraft and interchange fees, and
+  If JPMorgan Chase experiences significant losses in its                     • policies aimed at the economy more broadly, such as
+  investment portfolio or from market-making activities, this                   higher taxes and increased regulation which could result
+  could reduce JPMorgan Chase’s profitability and its liquidity                 in reductions in consumer disposable income.
+  and capital levels, and thereby constrain the growth of its
+  businesses.                                                                 Unfavorable market and economic conditions can have
+                                                                              an adverse effect on JPMorgan Chase’s wholesale
+  JPMorgan Chase’s consumer businesses can be                                 businesses.
+  negatively affected by adverse economic conditions
+  and governmental policies.                                                  In JPMorgan Chase’s wholesale businesses, market and
+                                                                              economic factors can affect the volume of transactions that
+  JPMorgan Chase’s consumer businesses are particularly                       JPMorgan Chase executes for its clients or for which it
+  affected by U.S. and global economic conditions, including:                 advises clients, and, therefore, the revenue that JPMorgan
+  • personal and household income distribution                                Chase receives from those transactions. These factors can
+                                                                              also influence the willingness of other financial institutions
+  • unemployment or underemployment                                           and investors to participate in capital markets transactions
+  • prolonged periods of exceptionally high or low interest                   that JPMorgan Chase manages, such as loan syndications
+    rates                                                                     or securities underwriting. Furthermore, if a significant and
+                                                                              sustained deterioration in market conditions were to occur,
+  • changes in the value of collateral such as residential real               the profitability of JPMorgan Chase’s businesses engaged
+    estate and vehicles                                                       in capital markets activities, including loan syndication,
+  • changes in housing prices                                                 securities underwriting and leveraged lending activities,
+                                                                              could be reduced to the extent that those businesses:
+                                                                              • earn less fee revenue due to lower transaction volumes,
+                                                                                including when clients are unwilling or unable to
+
+
+
+                                                                                                                                            15
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                          19/333
+12/02/2026, 13:06                                                                   jpm-20231231
+  Part I
+
+
+     refinance their outstanding debt obligations in                          incurring higher costs for servicing a larger volume of
+     unfavorable market conditions, or                                        delinquent loans in that portfolio. An increase in
+                                                                              foreclosures could result in higher operational risk
+  • dispose of portions of credit commitments at a loss, or
+                                                                              associated with JPMorgan Chase owning and managing
+    hold larger residual positions in credit commitments that
+                                                                              real property, and any inadequacy in governance or control
+    cannot be sold at favorable prices.
+                                                                              over the foreclosed properties could result in regulatory
+  The fees that JPMorgan Chase earns from managing client                     scrutiny and reputational harm.
+  assets or holding assets under custody for clients could be
+  diminished by declining asset values or other adverse                       Changes in interest rates and credit spreads can
+  macroeconomic conditions. For example, higher interest                      adversely affect JPMorgan Chase’s earnings, its
+  rates or a downturn in financial markets could affect the                   liquidity or its capital levels.
+  valuation of client assets that JPMorgan Chase manages or                   When interest rates are high or increasing, JPMorgan
+  holds under custody, which, in turn, could affect JPMorgan                  Chase can generally be expected to earn higher net
+  Chase’s revenue from fees that are based on the amount of                   interest income. However, higher interest rates can also
+  assets under management or custody. Similarly, adverse                      lead to:
+  macroeconomic or market conditions could prompt outflows
+  from JPMorgan Chase funds or accounts, or cause clients                     • fewer originations of commercial and residential real
+  to invest in products that generate lower revenue.                            estate loans
+  Substantial and unexpected withdrawals from a JPMorgan                      • losses on underwriting exposures or incremental client-
+  Chase fund can also hamper the investment performance                         specific downgrades, or increases in the allowance for
+  of the fund, particularly if the outflows create the need for                 credit losses and net charge-offs due to higher financing
+  the fund to dispose of fund assets at disadvantageous                         costs for clients
+  times or prices, and could lead to further withdrawals based
+  on the weaker investment performance.                                       • the loss of deposits, particularly if customers withdraw
+                                                                                deposits because they believe that interest rates offered
+  An adverse change in market conditions in particular                          by JPMorgan Chase are lower than those of competitors
+  segments of the economy, such as a sudden and severe                          or if JPMorgan Chase makes incorrect assumptions
+  downturn in oil and gas prices or an increase in commodity                    about depositor behavior
+  prices, severe declines in commercial real estate values, or
+  sustained changes in consumer behavior that affect specific                 • losses on available-for-sale (“AFS”) securities held in the
+  economic sectors, could have a material adverse effect on                     investment securities portfolio
+  clients of JPMorgan Chase whose operations or financial                     • lower net interest income if central banks introduce
+  condition are directly or indirectly dependent on the health                  interest rate increases more quickly than anticipated and
+  or stability of those market segments or economic sectors,                    this results in a misalignment in the pricing of short-term
+  as well as clients that are engaged in related businesses.                    and long-term borrowings
+  JPMorgan Chase could incur credit losses on its loans and
+  other commitments to clients that operate in, or are                        • less liquidity in the financial markets, and
+  dependent on, any sector of the economy that is or comes                    • higher funding costs.
+  under stress.
+                                                                              All of these outcomes could adversely affect JPMorgan
+  An economic downturn or sustained changes in consumer                       Chase’s earnings or its liquidity and capital levels, and any
+  behavior that results in shifts in consumer and business                    negative outcomes could be more severe in a prolonged
+  spending could also have a negative impact on certain of                    period of high interest rates. Higher interest rates can also
+  JPMorgan Chase’s wholesale clients, and thereby diminish                    negatively affect the payment performance on loans within
+  JPMorgan Chase’s earnings from its wholesale operations.                    JPMorgan Chase’s consumer and wholesale loan portfolios
+  For example, the businesses of certain of JPMorgan                          that are linked to variable interest rates. If borrowers of
+  Chase’s wholesale clients are dependent on consistent                       variable rate loans are unable to afford higher interest
+  streams of rental income from commercial real estate                        payments, those borrowers may reduce or stop making
+  properties, including offices, which are owned or being built               payments, thereby causing JPMorgan Chase to incur
+  by those clients. Sustained adverse economic conditions or                  losses and increased operational costs related to servicing
+  hybrid work models could result in reductions in the rental                 a higher volume of delinquent loans.
+  cash flows that owners or developers receive from their
+  tenants which, in turn, could depress the values of the                     On the other hand, a low or negative interest rate
+  properties, impair the ability of borrowers to service or                   environment may cause:
+  refinance their commercial real estate loans and lead to an                 • net interest margins to be compressed, which could
+  increase in foreclosures. These consequences could result                     reduce the amounts that JPMorgan Chase earns on its
+  in JPMorgan Chase experiencing increases in the                               investment securities portfolio to the extent that it is
+  allowance for credit losses, higher delinquencies, defaults                   unable to reinvest contemporaneously in higher-yielding
+  and charge-offs within its commercial real estate loan                        instruments
+  portfolio and
+
+
+
+   16
+
+
+
+
+https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm                                                          20/333

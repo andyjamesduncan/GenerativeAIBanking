@@ -1,0 +1,124 @@
+Client Due Diligence & KYC Refresh Policy
+Document Reference: KB-CDD-04
+Effective Date: 1 February 2026
+
+
+
+
+1. Scope
+This policy applies to all retail, corporate, and institutional clients of Katalaxy Bank
+across all jurisdictions in which the Bank operates.
+
+This document governs periodic review and event-driven refresh of Know Your
+Customer (KYC) records.
+
+
+
+
+2. Definitions
+KYC Refresh
+Update and re-verification of client identity, ownership structure, risk classification,
+and supporting documentation.
+
+High-Risk Client
+Client classified as High Risk under AML Risk Rating Framework (see KB-AML-02).
+
+Trigger Event
+Event that requires immediate reassessment of client due diligence.
+3. Periodic Review Requirements
+3.1 Retail Clients
+
+   •   Standard Risk: Review every 36 months
+   •   Medium Risk: Review every 24 months
+   •   High Risk: Review every 12 months
+
+3.2 Corporate Clients
+
+   •   Standard Risk: Review every 24 months
+   •   Medium Risk: Review every 18 months
+   •   High Risk: Review every 12 months
+
+3.3 Politically Exposed Persons (PEPs)
+
+All PEPs must undergo KYC refresh every 12 months regardless of baseline risk
+classification.
+4. Event-Driven KYC Refresh Triggers
+An immediate KYC refresh must occur upon occurrence of any of the following:
+
+4.1 Change in Ownership
+
+   •   Change in Ultimate Beneficial Ownership (UBO) exceeding 10%
+   •   Addition or removal of controlling shareholder
+
+4.2 Change in Control
+
+   •   Change in board composition involving Chair, CEO, or majority directors
+   •   Change in authorised signatories
+
+4.3 Change in Business Activity
+
+   •   Material change in business model
+   •   Entry into new high-risk jurisdiction
+
+4.4 Transaction Behaviour
+
+   •   Activity inconsistent with stated business profile
+   •   Significant unexplained increase in transaction volume (>50% quarterly
+       variance)
+
+4.5 Adverse Media
+
+   •   Credible adverse media relating to financial crime
+   •   Regulatory enforcement action involving client
+5. Required Evidence for KYC Refresh
+Upon trigger, relationship manager must obtain:
+
+5.1 Identity Verification
+
+   •   Updated government-issued ID (individual clients)
+   •   Certificate of incorporation (corporate clients, if amended)
+   •   Proof of address dated within last 3 months
+
+5.2 Ownership Verification
+
+   •   Updated shareholder register
+   •   UBO declaration form signed and dated
+   •   Corporate structure chart
+
+5.3 Risk Reassessment
+
+   •   Updated AML Risk Assessment Form
+   •   Sanctions screening results (dated within 7 days of refresh)
+   •   PEP screening results (dated within 7 days of refresh)
+
+5.4 Source of Funds (High Risk Only)
+
+   •   Documentary evidence of source of funds
+   •   Recent bank statements (last 3 months)
+   •   Tax return or audited financial statements
+
+
+
+
+6. Escalation Requirements
+If new risk classification increases to High Risk:
+
+   •   Notify Compliance within 2 business days
+   •   Obtain Compliance sign-off before continuation of high-risk relationship
+7. Documentation Standards
+All refreshed documentation must:
+
+   •   Be uploaded to Client Due Diligence System within 5 business days
+   •   Include clear audit trail
+   •   Record reason for refresh trigger
+
+
+
+
+8. Non-Specified Areas
+This policy does not define:
+
+   •   Frequency of enhanced monitoring outside formal refresh
+   •   Specific jurisdictional variations
+
+Such matters governed under separate AML Monitoring Policy (KB-AML-07).

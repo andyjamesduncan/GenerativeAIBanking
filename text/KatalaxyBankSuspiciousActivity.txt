@@ -1,0 +1,47 @@
+Suspicious Activity Scenario
+Customer Name: Daniel R.
+Client Type: Individual
+Initial Risk Rating: Low
+Account Opened: March 2021
+Jurisdiction: UK Resident
+
+
+
+Account Activity Overview
+
+• Account largely dormant from January 2023 to August 2023
+• Average historical monthly balance: £18,000
+• No prior international transactions
+
+
+
+Recent Activity (Last 10 Days)
+
+• 3 inbound wire transfers totaling £485,000
+– Originating from two separate corporate entities registered in Cyprus
+– Transfers reference “consulting settlement”
+
+• Within 24 hours of receipt:
+– £460,000 transferred to a newly added beneficiary
+– Beneficiary: Digital asset exchange registered in Estonia
+
+• Remaining £25,000 withdrawn in cash over 3 consecutive days
+
+
+
+Additional Observations
+
+• Customer occupation on file: Independent marketing consultant
+• Declared annual income at onboarding: £75,000
+• No updated Source of Wealth documentation since 2021
+• Recent login activity from IP address geolocated to UAE
+• Customer declined call from Relationship Manager requesting clarification
+• No previous transaction monitoring alerts
+System Trigger
+
+Automated monitoring flagged:
+
+• Unusual volume spike (27x historical average)
+• Rapid movement of funds
+• Offshore corporate counterparties
+• Crypto exchange beneficiary

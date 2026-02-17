@@ -1,0 +1,27 @@
+Customer Name: Daniel R.
+Client Type: Individual
+Jurisdiction: UK Resident
+Occupation on File: Independent Marketing Consultant
+Declared Annual Income: £75,000
+Account Opened: March 2021
+Initial Risk Rating: Low
+
+Recent Activity (Last 7 Days):
+
+• Three inbound international wire transfers totaling £485,000
+• Originating from two separate corporate entities registered in Cyprus
+• Payment references: “Consulting Settlement”
+
+• Within 24 hours of receipt:
+  – £460,000 transferred to a newly added beneficiary
+  – Beneficiary: Digital asset exchange registered in Estonia
+
+• Remaining £25,000 withdrawn in cash over three consecutive days
+
+Additional Observations:
+
+• Account historically maintained average balance of £18,000
+• No prior history of international transfers
+• No updated source of wealth documentation since onboarding
+• Recent login activity from IP address geolocated to UAE
+• Customer declined call from Relationship Manager requesting clarification

@@ -1,0 +1,45 @@
+Katalaxy Technologies Plc –
+Q2 2026 Earnings Call Transcript
+Operator:
+Good morning and welcome to the Katalaxy Technologies Q2 2026 earnings call.
+All participants are in listen-only mode. Following prepared remarks, we will open the
+call for questions.
+
+CEO – Andrew Hale:
+Thank you. Q2 marked a transitional quarter for Katalaxy.
+Revenue increased 8% year-on-year to £412 million, driven primarily by growth in our
+data analytics division.
+Recurring subscription revenue now represents 64% of total revenue, up from 58% last
+year.
+
+However, operating margin declined from 18% to 15%.
+This reﬂects continued investment in cloud infrastructure and higher compliance costs
+following new European regulatory requirements.
+
+CFO – Sarah Malik:
+Operating expenses increased 14% year-on-year.
+Technology investment accounted for approximately half of this increase.
+We also experienced higher staR costs as we expanded our engineering and regulatory
+teams.
+
+Free cash ﬂow was £38 million, down from £52 million in the prior-year quarter.
+Net debt stands at £210 million, compared with £185 million at year-end.
+
+We remain within covenant thresholds and maintain strong liquidity, with £140 million
+in undrawn credit facilities.
+
+CEO – Andrew Hale:
+Looking ahead, we expect revenue growth in the mid-single digits for the remainder of
+the year. Margin pressure may continue in Q3 due to infrastructure migration, but we
+anticipate stabilisation by Q4.
+
+Risks remain in three areas:
+First, regulatory change in the EU could increase compliance costs further.
+Second, customer procurement cycles are lengthening in the enterprise segment.
+Third, foreign exchange volatility may aRect reported earnings.
+
+That said, demand for AI-enabled analytics remains strong, and our product pipeline is
+robust.
+
+Operator:
+We will now open the line for questions.

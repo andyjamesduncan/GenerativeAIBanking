@@ -1,0 +1,96 @@
+Regulatory Circular
+Financial Conduct Supervisory Notice 2025/17
+Enhanced Monitoring of Politically Exposed Persons (PEPs)
+
+
+
+1. Purpose
+
+This circular sets out updated supervisory expectations regarding the identification,
+monitoring, and periodic review of Politically Exposed Persons (PEPs), their immediate
+family members, and known close associates.
+
+The regulator has identified deficiencies in enhanced due diligence procedures during
+recent thematic reviews.
+
+Firms are required to implement the measures set out below no later than 30
+September 2025.
+
+
+
+2. Identification and Classification
+
+2.1 Firms must ensure that onboarding procedures include screening against up-to-
+date PEP databases covering domestic and international public office holders.
+
+2.2 Where a customer is identified as a PEP, enhanced due diligence must be applied
+prior to account activation.
+
+2.3 Firms must document the basis for PEP classification, including source of
+information and date of determination.
+
+
+
+3. Enhanced Due Diligence Requirements
+
+3.1 For all PEP relationships, firms must obtain:
+a) Verified source of wealth
+b) Verified source of funds
+c) Senior management approval prior to establishing or continuing the relationship
+
+3.2 Firms must conduct adverse media screening at onboarding and at least annually
+thereafter.
+
+3.3 Transaction monitoring thresholds for PEPs must be reviewed and calibrated to
+reflect increased risk exposure.
+
+
+
+4. Ongoing Monitoring and Periodic Review
+
+4.1 PEP relationships must be reviewed at least annually.
+
+4.2 Reviews must include:
+
+a) Confirmation of continued PEP status
+b) Updated risk assessment
+c) Review of transactional activity
+d) Reconfirmation of source of wealth where material changes identified
+
+4.3 Firms must evidence completion of periodic reviews through documented audit
+trail.
+
+
+
+5. Reporting and Escalation
+
+5.1 Any material adverse information concerning a PEP must be escalated to the Money
+Laundering Reporting Officer (MLRO) within 5 business days.
+
+5.2 Where suspicious activity is identified, a Suspicious Activity Report (SAR) must be
+filed in accordance with existing statutory requirements.
+
+5.3 Firms must maintain records of all escalations and internal decisions for a
+minimum of 7 years.
+
+
+
+6. Governance and Oversight
+
+6.1 The Board must receive quarterly reporting on:
+
+a) Total number of PEP relationships
+b) High-risk PEP classifications
+c) Overdue periodic reviews
+d) SAR filings relating to PEPs
+
+6.2 Internal Audit must conduct annual independent testing of PEP controls.
+
+
+
+7. Implementation Timeline
+
+All measures must be fully implemented by 30 September 2025.
+
+A written confirmation of compliance, signed by a Senior Manager Function holder,
+must be submitted to the regulator no later than 15 October 2025.
