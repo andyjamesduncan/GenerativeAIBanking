@@ -145,7 +145,11 @@ Paste the following question and prompt into a new ChatGPT chat:
 >
 > <Objective> Design one practical generative AI product for retail or SME clients
 >
-> <Constraints> - Solve language-heavy problem - Reduce staff time - Include rough cost-benefit estimate - Identify top 2 regulatory risks
+> <Constraints>
+> Solve language-heavy problem
+> Reduce staff time
+> Include rough cost-benefit estimate
+> Identify top 2 regulatory risks
 >
 > <Output Format>
 >
@@ -163,9 +167,15 @@ As follow up, paste the following question and prompt into next ChatGPT chat inp
 
 ### Copy Text
 
-> Assume: 12,000 clients Manual drafting time = 18 minutes AI drafting + review = 4 minutes Average staff cost = €65 per hour
-
-> Use Python code to calculate: - Annual hours saved - Approximate annual cost impact Present results clearly.
+> Assume: 12,000 clients 
+> Manual drafting time = 18 minutes
+> AI drafting + review = 4 minutes
+> Average staff cost = €65 per hour
+>
+> Use Python code to calculate:
+> Annual hours saved
+> Approximate annual cost impact
+> Present results clearly.
 
 ## Workshop 2.6: KYC Refresh — Plain vs Grounded
 
@@ -185,7 +195,14 @@ Load the PDF document KatalaxyBankKYCClientDueDiligence.pdf and then paste in AL
 
 ### Copy Text
 
-> Answer the following question using ONLY the uploaded Katalaxy Bank KYC Policy document. Instructions: Use only information explicitly contained in the document. Do not rely on general knowledge. For every trigger or evidence requirement listed, include a citation in square brackets using the section number (e.g., \[4.2\], \[5.1\]). If the document does not specify something, write: “Not specified in supplied document.” Do not infer or assume beyond the text. Structure output into two sections: A. KYC Refresh Triggers B. Required Evidence Question: What events trigger a KYC refresh, and what evidence is required?
+> Answer the following question using ONLY the uploaded Katalaxy Bank KYC Policy document. 
+> Instructions: Use only information explicitly contained in the document. 
+> Do not rely on general knowledge. 
+> For every trigger or evidence requirement listed, include a citation in square brackets using the section number (e.g., \[4.2\], \[5.1\]). 
+> If the document does not specify something, write: “Not specified in supplied document.” 
+> Do not infer or assume beyond the text. 
+> Structure output into two sections: A. KYC Refresh Triggers B. Required Evidence 
+> Question: What events trigger a KYC refresh, and what evidence is required?
 
 ### Instruction Text
 
@@ -333,13 +350,9 @@ Step 1
 
 If possible and allowable in your environment, download the Portfolio_Workshop_File.xlsx ﬁle to a system you are allowed to download into, where you are also allowed to save Excel ﬁles as Macro-Enabled ﬁles. This will be your starting work ﬁle.
 
-### Instruction Text
-
 Step 2
 
 Open the Portfolio_Workshop_File.xlsx Excel ﬁle and save it as a Macro-Enabled Excel ﬁle with a digerent ﬁlename, such as Portfolio_Workshop_File_v02.xlsm. We will assume that name for the rest of this workshop.
-
-### Instruction Text
 
 Step 3
 
@@ -349,8 +362,6 @@ Step 4
 
 Go to a new ChatGPT chat session and upload the Portfolio_Workshop_File_v02.xlsm ﬁle into an input box.
 
-### Instruction Text
-
 Step 5
 
 In the same input box, now input the following prompt text into ChatGPT and execute the prompt. Copy the code produced.
@@ -359,9 +370,27 @@ In the same input box, now input the following prompt text into ChatGPT and exec
 
 > You are a senior Excel VBA developer.
 >
-> Write production-quality VBA code that: - Uses Option Explicit - Avoids Type Mismatch errors - Uses Variant when using Application.Match - Checks IsError before assigning to numeric variables - Uses the ActiveWorksheet (do not hard-code sheet names) - Dynamically detects the header row (search first 5 rows) - Accepts flexible header names: - Price column may be: “Price”, “Unit Price”, or “PRICE” - Quantity column may be: “Quantity”, “Qty”, or “QUANTITY” - If headers are not found, prompt the user to select the Price and Quantity columns manually - Prevent duplicate “Market Value” columns - Include full structured error handling
+> Write production-quality VBA code that: 
+> Uses Option Explicit 
+> Avoids Type Mismatch errors 
+> Uses Variant when using Application.Match 
+> Checks IsError before assigning to numeric variables 
+> Uses the ActiveWorksheet (do not hard-code sheet names) 
+> Dynamically detects the header row (search first 5 rows) 
+> Accepts flexible header names: 
+> Price column may be: “Price”, “Unit Price”, or “PRICE” 
+> Quantity column may be: “Quantity”, “Qty”, or “QUANTITY” 
+> If headers are not found, prompt the user to select the Price and Quantity columns manually 
+> Prevent duplicate “Market Value” columns 
+> Include full structured error handling
 >
-> The macro must: - Loop through rows - Calculate Price × Quantity - Write to column “Market Value” - Display total portfolio value - Place total portfolio value two rows below the final market value calculated - Place the phrase “Total Portfolio Value” in the cell one column to the left and right-align that label
+> The macro must: 
+> Loop through rows 
+> Calculate Price × Quantity 
+> Write to column “Market Value” 
+> Display total portfolio value 
+> Place total portfolio value two rows below the final market value calculated 
+> Place the phrase “Total Portfolio Value” in the cell one column to the left and right-align that label
 >
 > The code must compile and run without Type Mismatch errors.
 >
@@ -400,7 +429,8 @@ Paste your constructed prompt into a ChatGPT input box and then execute.
 > >>> YOUR MACRO-GENERATED VBA CODE GETS PASTED HERE <<<
 > ```
 >
-> Review the supplied VBA macro as if you were a senior risk or model validation reviewer. Identify hidden assumptions, edge- case failures, and production risks.
+> Review the supplied VBA macro as if you were a senior risk or model validation reviewer. 
+> Identify hidden assumptions, edge case failures, and production risks.
 >
 > Suggest improvements without changing the core functionality.
 
@@ -461,7 +491,12 @@ Paste this prompt into a ChatGPT input box and execute:
 >
 > Draft a clear internal reminder email to relationship managers.
 >
-> Requirements: - Professional and firm tone - No accusatory language - Clear action required - Reference internal policy obligations - Keep under 200 words
+> Requirements: 
+> Professional and firm tone 
+> No accusatory language 
+> Clear action required 
+> Reference internal policy obligations 
+> Keep under 200 words
 
 ## Workshop 3.7: Live Demo – Red Teaming an AI Response
 
@@ -517,7 +552,11 @@ Paste the following question and prompt into a new ChatGPT chatbox: What happens
 > 4.  Portfolio-Level Risk Implications
 > 5.  Recommended Portfolio Considerations
 >
-> <Constraints> Professional tone Maximum 400 words Focus on economic transmission mechanisms Avoid vague language Use Python code for all calculations
+> <Constraints> 
+> Professional tone Maximum 400 words
+> Focus on economic transmission mechanisms 
+> Avoid vague language 
+> Use Python code for all calculations
 
 ## Workshop 3.9: Prompts With RAG – What Changes?
 
@@ -555,9 +594,10 @@ Inside your new GPT RAG, now ask this question:
 
 ### Instruction Text
 
-Step 1 (if you do not have a paid subscription with ChatGPT, but you
+Step 1 (if you do not have a paid subscription with ChatGPT, 
+but you can upload and download ﬁles) 
 
-can upload and download ﬁles) Upload the KatalaxyBankHouseView.pdf ﬁle to a ChatGPT box and then paste in all of the following and then execute:
+Upload the KatalaxyBankHouseView.pdf ﬁle to a ChatGPT box and then paste in all of the following and then execute:
 
 ### Copy Text
 
@@ -613,7 +653,10 @@ This guide explains how to enable the Developer tab in Microsoft Excel on both W
 
 The Developer tab is required to:
 
-• Open the VBA editor • Insert macros • Record macros • Insert form controls
+• Open the VBA editor
+• Insert macros
+• Record macros
+• Insert form controls
 
 ### Part 1 – Windows PC
 
