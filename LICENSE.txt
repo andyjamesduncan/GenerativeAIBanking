@@ -1,0 +1,20 @@
+Restricted Educational Use License
+
+Copyright (c) 2026 Katalaxy Learning
+
+This material is provided exclusively to registered attendees of the
+Redcliffe Generative AI in Finance and Banking Course.
+
+Permitted Use:
+- Personal educational use by registered course attendees.
+- Use within the attendee’s organisation for internal learning purposes.
+
+Prohibited Use:
+- Redistribution, resale, sublicensing, or public distribution.
+- Uploading to public repositories.
+- Commercial use outside the scope of the Redcliffe course.
+
+No warranty is provided. This material is supplied "as is" without liability.
+
+All rights reserved.
+
