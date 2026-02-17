@@ -11,7 +11,9 @@ Paste the following text into a new ChatGPT chat box and execute:
 ### Copy Text
 
 ````
-Under Basel III, what is the exposure measure for a written credit default swap under the leverage ratio when used for client clearing, including the treatment of potential future exposure and cash variation margin?
+Under Basel III, what is the exposure measure for a written credit default 
+swap under the leverage ratio when used for client clearing, 
+including the treatment of potential future exposure and cash variation margin?
 ````
 
 ### Instruction Text
@@ -40,17 +42,20 @@ To ‘constrain’ ChatGPT’s ‘imagination’, it can be worth inputting a mu
 
 ### Copy Text
 
-> Under Basel III leverage ratio rules:
->
-> Explain the exposure measure for a written credit default swap cleared for a client.
->
-> Constraints: 
-> Maximum 150 words. 
-> Use bullet points only. 
-> Distinguish between replacement cost and potential future exposure. 
-> Explain treatment of cash variation margin. 
-> State clearly if jurisdictional differences may apply. 
-> Do not speculate beyond Basel III text. If you are uncertain about any aspect, state “uncertain under Basel III framework”.
+Under Basel III leverage ratio rules:
+
+Explain the exposure measure for a written credit default swap cleared for a client.
+
+````
+Constraints: 
+Maximum 150 words. 
+Use bullet points only. 
+Distinguish between replacement cost and potential future exposure. 
+Explain treatment of cash variation margin. 
+State clearly if jurisdictional differences may apply. 
+Do not speculate beyond Basel III text. 
+If you are uncertain about any aspect, state “uncertain under Basel III framework”.
+````
 
 ## Workshop 1.2: Live Micro-Demo
 
@@ -64,14 +69,16 @@ Paste the following into a new ChatGPT chat box and execute.
 
 ### Copy Text
 
-> <Role> Senior banking regulator
->
-> <Objective> Explain generative AI in 4 bullet points
->
-> <Constraints> 
-> Maximum 12 words per bullet 
-> Distinguish from predictive AI 
-> State one limitation clearly
+````
+<Role> Senior banking regulator
+
+<Objective> Explain generative AI in 4 bullet points
+
+<Constraints> 
+Maximum 12 words per bullet 
+Distinguish from predictive AI 
+State one limitation clearly
+````
 
 ## Workshop 2.2: Live Demo – 24/7 Client Chatbot Simulation
 
@@ -83,13 +90,19 @@ Paste the following prompt text into a new ChatGPT input box before executing yo
 
 ### Copy Text
 
-> You are a digital banking assistant responding to a retail investor.
->
-> The client asks:
->
-> “I saw markets dropped 2% today. Should I sell my investments now? I’m worried things are getting worse.”
->
-> Respond in clear, calm, non-technical language. Do not provide personalised investment advice. Provide general information only. Encourage long-term thinking. Keep response under 150 words.
+````
+You are a digital banking assistant responding to a retail investor.
+
+The client asks:
+
+“I saw markets dropped 2% today. Should I sell my investments now? I’m worried things are getting worse.”
+
+Respond in clear, calm, non-technical language. 
+Do not provide personalised investment advice. 
+Provide general information only. 
+Encourage long-term thinking. 
+Keep response under 150 words.
+````
 
 ## Workshop 2.3: Live Demo – Fraud Alert Explanation
 
@@ -101,7 +114,17 @@ Load the PDF document KatalaxySuspiciousLog.pdf into a ChatGPT input box and the
 
 ### Copy Text
 
-> You are a financial crime analyst preparing an internal case summary. Based on the following transaction data, draft a structured explanation suitable for review by a compliance manager. Present: 1. Summary of activity 2. Key risk indicators 3. Why the alert triggered 4. Recommended next step Maintain a neutral, factual tone. Do not speculate beyond the data provided.
+````
+You are a financial crime analyst preparing an internal case summary. 
+Based on the following transaction data, 
+draft a structured explanation suitable for review by a compliance manager. 
+Present: 
+1. Summary of activity 
+2. Key risk indicators 
+3. Why the alert triggered 
+4. Recommended next step Maintain a neutral, factual tone. 
+Do not speculate beyond the data provided.
+````
 
 ### Instruction Text
 
@@ -119,24 +142,27 @@ Load the PDF document Katalaxy_Q2_2026_Earnings_Call_Transcript.pdf into a ChatG
 
 ### Copy Text
 
-> You are a senior equity research analyst preparing material for a portfolio manager.
->
-> Please analyse the uploaded earnings call transcript and complete the following tasks:
->
-> 1.  Provide a structured executive summary in no more than 5 bullet points.
->
-> 2.  Extract the key financial metrics mentioned, including:
->
->     - Revenue growth
->     - Operating margin movement
->     - Free cash flow
->     - Net debt position Present these clearly and concisely.
->
-> 3.  Identify forward-looking guidance and emerging risks discussed by management.
->
-> 4.  Draft a 3-bullet client-ready briefing written in clear, non-technical language.
->
-> Keep the tone professional and concise. Do not invent information that is not explicitly stated in the transcript.
+````
+You are a senior equity research analyst preparing material for a portfolio manager.
+
+Please analyse the uploaded earnings call transcript and complete the following tasks:
+
+1.  Provide a structured executive summary in no more than 5 bullet points.
+
+2.  Extract the key financial metrics mentioned, including:
+
+    - Revenue growth
+    - Operating margin movement
+    - Free cash flow
+    - Net debt position Present these clearly and concisely.
+
+3.  Identify forward-looking guidance and emerging risks discussed by management.
+
+4.  Draft a 3-bullet client-ready briefing written in clear, non-technical language.
+
+Keep the tone professional and concise. 
+Do not invent information that is not explicitly stated in the transcript.
+````
 
 ### Instruction Text
 
@@ -154,23 +180,25 @@ Paste the following question and prompt into a new ChatGPT chat:
 
 ### Copy Text
 
-> <Role> Head of digital banking strategy at mid-sized European bank
->
-> <Objective> Design one practical generative AI product for retail or SME clients
->
-> <Constraints>
-> Solve language-heavy problem
-> Reduce staff time
-> Include rough cost-benefit estimate
-> Identify top 2 regulatory risks
->
-> <Output Format>
->
-> 1.  Product Concept
-> 2.  Current Manual Workflow
-> 3.  AI-Enabled Workflow
-> 4.  Estimated Time Saved
-> 5.  Regulatory Risks
+````
+<Role> Head of digital banking strategy at mid-sized European bank
+
+<Objective> Design one practical generative AI product for retail or SME clients
+
+<Constraints>
+Solve language-heavy problem
+Reduce staff time
+Include rough cost-benefit estimate
+Identify top 2 regulatory risks
+
+<Output Format>
+
+1.  Product Concept
+2.  Current Manual Workflow
+3.  AI-Enabled Workflow
+4.  Estimated Time Saved
+5.  Regulatory Risks
+````
 
 ### Instruction Text
 
@@ -180,15 +208,17 @@ As follow up, paste the following question and prompt into next ChatGPT chat inp
 
 ### Copy Text
 
-> Assume: 12,000 clients 
-> Manual drafting time = 18 minutes
-> AI drafting + review = 4 minutes
-> Average staff cost = €65 per hour
->
-> Use Python code to calculate:
-> Annual hours saved
-> Approximate annual cost impact
-> Present results clearly.
+````
+Assume: 12,000 clients 
+Manual drafting time = 18 minutes
+AI drafting + review = 4 minutes
+Average staff cost = €65 per hour
+
+Use Python code to calculate:
+Annual hours saved
+Approximate annual cost impact
+Present results clearly.
+````
 
 ## Workshop 2.6: KYC Refresh — Plain vs Grounded
 
@@ -198,7 +228,9 @@ Step 1 – Paste the following into a new chat on ChatGPT
 
 ### Copy Text
 
-> What events trigger a KYC refresh, and what evidence is required?
+````
+What events trigger a KYC refresh, and what evidence is required?
+````
 
 ### Instruction Text
 
@@ -208,19 +240,22 @@ Load the PDF document KatalaxyBankKYCClientDueDiligence.pdf and then paste in AL
 
 ### Copy Text
 
-> Answer the following question using ONLY the uploaded Katalaxy Bank KYC Policy document. 
->
-> Instructions: Use only information explicitly contained in the document. 
-> Do not rely on general knowledge. 
-> For every trigger or evidence requirement listed, include a citation in square brackets using the section number (e.g., \[4.2\], \[5.1\]). 
-> If the document does not specify something, write: “Not specified in supplied document.” 
-> Do not infer or assume beyond the text. 
-> Structure output into two sections: 
-> - A. KYC Refresh Triggers
-> - B. Required Evidence
->
-> Question: 
-> What events trigger a KYC refresh, and what evidence is required?
+````
+Answer the following question using ONLY the uploaded Katalaxy Bank KYC Policy document. 
+
+Instructions: Use only information explicitly contained in the document. 
+Do not rely on general knowledge. 
+For every trigger or evidence requirement listed, 
+include a citation in square brackets using the section number (e.g., \[4.2\], \[5.1\]). 
+If the document does not specify something, write: “Not specified in supplied document.” 
+Do not infer or assume beyond the text. 
+Structure output into two sections: 
+- A. KYC Refresh Triggers
+- B. Required Evidence
+
+Question: 
+What events trigger a KYC refresh, and what evidence is required?
+````
 
 ### Instruction Text
 
@@ -238,18 +273,22 @@ Load the KatalaxyBankKYRegulatoryCircular.pdf ﬁle into a ChatGPT input box. Be
 
 ### Copy Text
 
-> <Role> You are a senior compliance officer.
->
-> <Objective> Extract operational requirements from the regulatory text below.
->
-> <Output Format>
->
-> 1.  Mandatory Actions
-> 2.  Reporting Deadlines
-> 3.  Documentation Required
-> 4.  Escalation Requirements
->
-> <Constraints> Bullet points only. Cite paragraph numbers. Do not interpret beyond supplied text. If requirement unclear, state “Unclear from text.”
+````
+<Role> You are a senior compliance officer.
+
+<Objective> Extract operational requirements from the regulatory text below.
+
+<Output Format>
+
+1.  Mandatory Actions
+2.  Reporting Deadlines
+3.  Documentation Required
+4.  Escalation Requirements
+
+<Constraints> Bullet points only. Cite paragraph numbers. 
+Do not interpret beyond supplied text. 
+If requirement unclear, state “Unclear from text.”
+````
 
 ### Instruction Text
 
@@ -271,22 +310,28 @@ Upload JPMorganChase_10K_Curated_Extract.pdf to ChatGPT with the following paste
 
 ### Copy Text
 
-> <Role> You are a senior equity research analyst at a global investment bank.
->
-> <Audience> You are writing for a portfolio manager with limited time.
->
-> <Objective> Produce a concise but insightful summary of the annual report excerpt.
->
-> <Output Format>
->
-> 1.  Executive Summary (maximum 6 bullet points)
-> 2.  Revenue and Profit Trends
-> 3.  Balance Sheet and Liquidity Observations
-> 4.  Key Risks Highlighted
-> 5.  Strategic Priorities
-> 6.  Red Flags or Areas Requiring Further Investigation
->
-> <Constraints> Maximum 500 words. Bullet points only. Focus only on material financial information. Do not repeat boilerplate language. Base your answer only on the supplied text.
+````
+<Role> You are a senior equity research analyst at a global investment bank.
+
+<Audience> You are writing for a portfolio manager with limited time.
+
+<Objective> Produce a concise but insightful summary of the annual report excerpt.
+
+<Output Format>
+
+1.  Executive Summary (maximum 6 bullet points)
+2.  Revenue and Profit Trends
+3.  Balance Sheet and Liquidity Observations
+4.  Key Risks Highlighted
+5.  Strategic Priorities
+6.  Red Flags or Areas Requiring Further Investigation
+
+<Constraints> Maximum 500 words. 
+Bullet points only. 
+Focus only on material financial information. 
+Do not repeat boilerplate language. 
+Base your answer only on the supplied text.
+````
 
 ### Instruction Text
 
@@ -300,7 +345,9 @@ Let’s shorten things. Paste this in and execute with ChatGPT:
 
 ### Copy Text
 
-> Now tighten this to 250 words suitable for inclusion in a board pack. Increase clarity. Remove repetition. Keep only the most material financial and risk points.
+````
+Now tighten this to 250 words suitable for inclusion in a board pack. Increase clarity. Remove repetition. Keep only the most material financial and risk points.
+````
 
 ### Instruction Text
 
@@ -310,8 +357,10 @@ Let’s go for a bit more of an analytical angle. Paste this in and execute with
 
 ### Copy Text
 
-> Now identify three issues that could materially affect valuation over the next 12–24 months. 
-> Explain each in one sentence.
+````
+Now identify three issues that could materially affect valuation over the next 12–24 months. 
+Explain each in one sentence.
+````
 
 ## Workshop 3.2: Client Portfolio Update — Faster Drafting
 
@@ -323,23 +372,29 @@ Upload Market_Summary_Portfolio_Update_Exercise.pdf into a ChatGPT input box, al
 
 ### Copy Text
 
-> <Role> You are a senior wealth manager.
->
-> <Audience> Retail client with moderate financial knowledge.
->
-> <Instructions> Use Python to perform all calculations.
->
-> <Objective> Draft a portfolio update covering market performance, portfolio impact, and outlook.
->
-> <Output Format>
->
-> 1.  Market Overview
-> 2.  Portfolio Impact
-> 3.  Risk Positioning
-> 4.  Outlook
-> 5.  Recommended Actions (if any)
->
-> <Constraints> Maximum 300 words. Professional but accessible tone. Avoid technical jargon. Focus only on material movements.
+````
+<Role> You are a senior wealth manager.
+
+<Audience> Retail client with moderate financial knowledge.
+
+<Instructions> Use Python to perform all calculations.
+
+<Objective> Draft a portfolio update covering market performance, portfolio impact, and outlook.
+
+<Output Format>
+
+1.  Market Overview
+2.  Portfolio Impact
+3.  Risk Positioning
+4.  Outlook
+5.  Recommended Actions (if any)
+
+<Constraints> 
+Maximum 300 words. 
+Professional but accessible tone. 
+Avoid technical jargon. 
+Focus only on material movements.
+````
 
 ### Instruction Text
 
@@ -353,7 +408,9 @@ Let’s change the audience. Paste this in as the next request:
 
 ### Copy Text
 
-> Rewrite for institutional client.
+````
+Rewrite for institutional client.
+````
 
 ## Workshop 3.3: Excel VBA Macro – Automating Risk & Portfolio Reporting
 
@@ -385,33 +442,35 @@ In the same input box, now input the following prompt text into ChatGPT and exec
 
 ### Copy Text
 
-> You are a senior Excel VBA developer.
->
-> Write production-quality VBA code that: 
-> - Uses Option Explicit
-> - Avoids Type Mismatch errors
-> - Uses Variant when using Application.Match 
-> - Checks IsError before assigning to numeric variables 
-> - Uses the ActiveWorksheet (do not hard-code sheet names) 
-> - Dynamically detects the header row (search first 5 rows) 
-> - Accepts flexible header names: 
-> - Price column may be: “Price”, “Unit Price”, or “PRICE” 
-> - Quantity column may be: “Quantity”, “Qty”, or “QUANTITY” 
-> - If headers are not found, prompt the user to select the Price and Quantity columns manually 
-> - Prevent duplicate “Market Value” columns 
-> - Include full structured error handling
->
-> The macro must: 
-> - Loop through rows 
-> - Calculate Price × Quantity 
-> - Write to column “Market Value” 
-> - Display total portfolio value 
-> - Place total portfolio value two rows below the final market value calculated 
-> - Place the phrase “Total Portfolio Value” in the cell one column to the left and right-align that label
->
-> The code must compile and run without Type Mismatch errors.
->
-> Keep the code clear and well-commented.
+````
+You are a senior Excel VBA developer.
+
+Write production-quality VBA code that: 
+- Uses Option Explicit
+- Avoids Type Mismatch errors
+- Uses Variant when using Application.Match 
+- Checks IsError before assigning to numeric variables 
+- Uses the ActiveWorksheet (do not hard-code sheet names) 
+- Dynamically detects the header row (search first 5 rows) 
+- Accepts flexible header names: 
+- Price column may be: “Price”, “Unit Price”, or “PRICE” 
+- Quantity column may be: “Quantity”, “Qty”, or “QUANTITY” 
+- If headers are not found, prompt the user to select the Price and Quantity columns manually 
+- Prevent duplicate “Market Value” columns 
+- Include full structured error handling
+
+The macro must: 
+- Loop through rows 
+- Calculate Price × Quantity 
+- Write to column “Market Value” 
+- Display total portfolio value 
+- Place total portfolio value two rows below the final market value calculated 
+- Place the phrase “Total Portfolio Value” in the cell one column to the left and right-align that label
+
+The code must compile and run without Type Mismatch errors.
+
+Keep the code clear and well-commented.
+````
 
 ### Instruction Text
 
@@ -458,7 +517,9 @@ Once you receive a probably long response, maybe try this prompt to generate an 
 
 ### Copy Text
 
-> As if you were a senior VBA developer, please rewrite the code with your recommendations added.
+````
+As if you were a senior VBA developer, please rewrite the code with your recommendations added.
+````
 
 ## Workshop 3.5: Suspicious Activity Alert — Clear Internal Explanation
 
@@ -470,20 +531,26 @@ Load the KatalaxyBankSuspiciousActivity.pdf ﬁle into a ChatGPT input box. Then
 
 ### Copy Text
 
-> <Role> You are a financial crime analyst.
->
-> <Objective> Draft a clear internal explanation of why this transaction pattern triggered a monitoring alert.
->
-> <Audience> Internal compliance review committee.
->
-> <Output Format>
->
-> 1.  Summary of Activity
-> 2.  Risk Indicators Identified
-> 3.  Regulatory Considerations
-> 4.  Recommended Next Steps
->
-> <Constraints> Maximum 250 words. Professional tone. Avoid speculation beyond supplied facts. Highlight objective risk indicators.
+````
+<Role> You are a financial crime analyst.
+
+<Objective> Draft a clear internal explanation of why this transaction pattern triggered a monitoring alert.
+
+<Audience> Internal compliance review committee.
+
+<Output Format>
+
+1.  Summary of Activity
+2.  Risk Indicators Identified
+3.  Regulatory Considerations
+4.  Recommended Next Steps
+
+<Constraints> 
+Maximum 250 words. 
+Professional tone. 
+Avoid speculation beyond supplied facts. 
+Highlight objective risk indicators.
+````
 
 ### Instruction Text
 
@@ -501,18 +568,22 @@ Paste this prompt into a ChatGPT input box and execute:
 
 ### Copy Text
 
-> You are a compliance manager drafting an internal reminder email.
->
-> Context: Recent monitoring has identified delays in updating customer KYC documentation. Several periodic reviews are overdue.
->
-> Draft a clear internal reminder email to relationship managers.
->
-> Requirements: 
-> Professional and firm tone 
-> No accusatory language 
-> Clear action required 
-> Reference internal policy obligations 
-> Keep under 200 words
+````
+You are a compliance manager drafting an internal reminder email.
+
+Context: 
+Recent monitoring has identified delays in updating customer KYC documentation. 
+Several periodic reviews are overdue.
+
+Draft a clear internal reminder email to relationship managers.
+
+Requirements: 
+Professional and firm tone 
+No accusatory language 
+Clear action required 
+Reference internal policy obligations 
+Keep under 200 words
+````
 
 ## Workshop 3.7: Live Demo – Red Teaming an AI Response
 
@@ -524,9 +595,13 @@ Paste the following question and prompt into a new ChatGPT chat input box: You a
 
 ### Copy Text
 
-> Explain how a 150 basis point increase in interest rates over 12 months would affect a balanced portfolio of 60% global equities and 40% investment-grade bonds.
->
-> Provide a structured and confident explanation.
+````
+Explain how a 150 basis point increase in interest rates over 12 months 
+would affect a balanced portfolio of 
+60% global equities and 40% investment-grade bonds.
+
+Provide a structured and confident explanation.
+````
 
 ### Instruction Text
 
@@ -536,13 +611,15 @@ Now paste in the text below and execute:
 
 ### Copy Text
 
-> Critically review your previous answer.
->
-> 1.  Identify all assumptions you made.
-> 2.  Highlight where your reasoning may be uncertain.
-> 3.  Identify where additional data would be required.
-> 4.  Flag any statements that may be overly confident.
-> 5.  Explain what could go wrong if this analysis were used in a real client meeting.
+````
+Critically review your previous answer.
+
+1.  Identify all assumptions you made.
+2.  Highlight where your reasoning may be uncertain.
+3.  Identify where additional data would be required.
+4.  Flag any statements that may be overly confident.
+5.  Explain what could go wrong if this analysis were used in a real client meeting.
+````
 
 ## Workshop 3.8: Prompts Without RAG – Scenario Shock! What Happens Next?
 
@@ -554,25 +631,28 @@ Paste the following question and prompt into a new ChatGPT chatbox: What happens
 
 ### Copy Text
 
-> <Role> Senior multi-asset portfolio strategist
->
-> <Objective> Describe how a 150bps rise in interest rates over 12 months could affect a diversified portfolio.
->
-> <Portfolio Composition> 60% global equities 30% investment-grade bonds 10% cash
->
-> <Output Format>
->
-> 1.  Equity Impact
-> 2.  Fixed Income Impact
-> 3.  Cash Impact
-> 4.  Portfolio-Level Risk Implications
-> 5.  Recommended Portfolio Considerations
->
-> <Constraints> 
-> Professional tone Maximum 400 words
-> Focus on economic transmission mechanisms 
-> Avoid vague language 
-> Use Python code for all calculations
+````
+<Role> Senior multi-asset portfolio strategist
+
+<Objective> 
+Describe how a 150bps rise in interest rates over 12 months could affect a diversified portfolio.
+
+<Portfolio Composition> 60% global equities 30% investment-grade bonds 10% cash
+
+<Output Format>
+
+1.  Equity Impact
+2.  Fixed Income Impact
+3.  Cash Impact
+4.  Portfolio-Level Risk Implications
+5.  Recommended Portfolio Considerations
+
+<Constraints> 
+Professional tone Maximum 400 words
+Focus on economic transmission mechanisms 
+Avoid vague language 
+Use Python code for all calculations
+````
 
 ## Workshop 3.9: Prompts With RAG – What Changes?
 
@@ -584,21 +664,27 @@ Watch the demo of building a RAG, then build your own RAG using the KatalaxyBank
 
 ### Copy Text
 
-> <Role> Senior multi-asset portfolio strategist
->
-> <Objective> Describe how a 150bps rise in interest rates over 12 months could affect a diversified portfolio.
->
-> <Portfolio Composition> 60% global equities 30% investment-grade bonds 10% cash
->
-> <Output Format>
->
-> 1.  Equity Impact
-> 2.  Fixed Income Impact
-> 3.  Cash Impact
-> 4.  Portfolio-Level Risk Implications
-> 5.  Recommended Portfolio Considerations
->
-> <Constraints> Professional tone Maximum 400 words Focus on economic transmission mechanisms Avoid vague language Use Python code to perform all calculation
+````
+<Role> Senior multi-asset portfolio strategist
+
+<Objective> 
+Describe how a 150bps rise in interest rates over 12 months could affect a diversified portfolio.
+
+<Portfolio Composition> 60% global equities 30% investment-grade bonds 10% cash
+
+<Output Format>
+
+1.  Equity Impact
+2.  Fixed Income Impact
+3.  Cash Impact
+4.  Portfolio-Level Risk Implications
+5.  Recommended Portfolio Considerations
+
+<Constraints> 
+Professional tone Maximum 400 words 
+Focus on economic transmission mechanisms 
+Avoid vague language Use Python code to perform all calculation
+````
 
 ### Instruction Text
 
@@ -606,7 +692,9 @@ Inside your new GPT RAG, now ask this question:
 
 ### Copy Text
 
-> What happens to my portfolio if inflation re-accelerates and rates rise 150 bps over 12 months?
+````
+What happens to my portfolio if inflation re-accelerates and rates rise 150 bps over 12 months?
+````
 
 ### Instruction Text
 
@@ -617,23 +705,32 @@ Upload the KatalaxyBankHouseView.pdf ﬁle to a ChatGPT box and then paste in al
 
 ### Copy Text
 
-> <Role> Senior multi-asset portfolio strategist
->
-> <Objective> Describe how a 150bps rise in interest rates over 12 months could affect a diversified portfolio.
->
-> <Portfolio Composition> 60% global equities 30% investment-grade bonds 10% cash
->
-> <Output Format>
->
-> 1.  Equity Impact
-> 2.  Fixed Income Impact
-> 3.  Cash Impact
-> 4.  Portfolio-Level Risk Implications
-> 5.  Recommended Portfolio Considerations
->
-> <Constraints> Professional tone Maximum 400 words Focus on economic transmission mechanisms Avoid vague language Use Python code to perform all calculations
->
-> <Question> What happens to my portfolio if inflation re-accelerates and rates rise 150 bps over 12 months?
+````
+<Role>
+Senior multi-asset portfolio strategist
+
+<Objective> 
+Describe how a 150bps rise in interest rates over 12 months could affect a diversified portfolio.
+
+<Portfolio Composition> 
+60% global equities 30% investment-grade bonds 10% cash
+
+<Output Format>
+
+1.  Equity Impact
+2.  Fixed Income Impact
+3.  Cash Impact
+4.  Portfolio-Level Risk Implications
+5.  Recommended Portfolio Considerations
+
+<Constraints> 
+Professional tone Maximum 400 words 
+Focus on economic transmission mechanisms 
+Avoid vague language Use Python code to perform all calculations
+
+<Question> 
+What happens to my portfolio if inflation re-accelerates and rates rise 150 bps over 12 months?
+````
 
 ### Instruction Text
 
@@ -643,23 +740,33 @@ Copy and paste all of the text from the KatalaxyBankHouseView.txt into a ChatGPT
 
 ### Copy Text
 
-> <Role> Senior multi-asset portfolio strategist
->
-> <Objective> Describe how a 150bps rise in interest rates over 12 months could affect a diversified portfolio.
->
-> <Portfolio Composition> 60% global equities 30% investment-grade bonds 10% cash
->
-> <Output Format>
->
-> 1.  Equity Impact
-> 2.  Fixed Income Impact
-> 3.  Cash Impact
-> 4.  Portfolio-Level Risk Implications
-> 5.  Recommended Portfolio Considerations
->
-> <Constraints> Professional tone Maximum 400 words Focus on economic transmission mechanisms Avoid vague language Use Python code to perform all calculations
->
-> <Question> What happens to my portfolio if inflation re-accelerates and rates rise 150 bps over 12 months?
+````
+<Role> 
+Senior multi-asset portfolio strategist
+
+<Objective> 
+Describe how a 150bps rise in interest rates over 12 months could affect a diversified portfolio.
+
+<Portfolio Composition> 
+60% global equities 
+30% investment-grade bonds 
+10% cash
+
+<Output Format>
+
+1.  Equity Impact
+2.  Fixed Income Impact
+3.  Cash Impact
+4.  Portfolio-Level Risk Implications
+5.  Recommended Portfolio Considerations
+
+<Constraints> Professional tone Maximum 400 words 
+Focus on economic transmission mechanisms 
+Avoid vague language Use Python code to perform all calculations
+
+<Question> 
+What happens to my portfolio if inflation re-accelerates and rates rise 150 bps over 12 months?
+````
 
 # Appendix
 
