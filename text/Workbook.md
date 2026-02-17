@@ -205,13 +205,17 @@ Load the PDF document KatalaxyBankKYCClientDueDiligence.pdf and then paste in AL
 ### Copy Text
 
 > Answer the following question using ONLY the uploaded Katalaxy Bank KYC Policy document. 
+>
 > Instructions: Use only information explicitly contained in the document. 
 > Do not rely on general knowledge. 
 > For every trigger or evidence requirement listed, include a citation in square brackets using the section number (e.g., \[4.2\], \[5.1\]). 
 > If the document does not specify something, write: “Not specified in supplied document.” 
 > Do not infer or assume beyond the text. 
-> Structure output into two sections: A. KYC Refresh Triggers B. Required Evidence 
-> Question: What events trigger a KYC refresh, and what evidence is required?
+> Structure output into two sections: 
+> - A. KYC Refresh Triggers 
+> - B. Required Evidence 
+> Question: 
+> What events trigger a KYC refresh, and what evidence is required?
 
 ### Instruction Text
 
@@ -380,26 +384,26 @@ In the same input box, now input the following prompt text into ChatGPT and exec
 > You are a senior Excel VBA developer.
 >
 > Write production-quality VBA code that: 
-> Uses Option Explicit 
-> Avoids Type Mismatch errors 
-> Uses Variant when using Application.Match 
-> Checks IsError before assigning to numeric variables 
-> Uses the ActiveWorksheet (do not hard-code sheet names) 
-> Dynamically detects the header row (search first 5 rows) 
-> Accepts flexible header names: 
-> Price column may be: “Price”, “Unit Price”, or “PRICE” 
-> Quantity column may be: “Quantity”, “Qty”, or “QUANTITY” 
-> If headers are not found, prompt the user to select the Price and Quantity columns manually 
-> Prevent duplicate “Market Value” columns 
-> Include full structured error handling
+> - Uses Option Explicit
+> - Avoids Type Mismatch errors
+> - Uses Variant when using Application.Match 
+> - Checks IsError before assigning to numeric variables 
+> - Uses the ActiveWorksheet (do not hard-code sheet names) 
+> - Dynamically detects the header row (search first 5 rows) 
+> - Accepts flexible header names: 
+> - Price column may be: “Price”, “Unit Price”, or “PRICE” 
+> - Quantity column may be: “Quantity”, “Qty”, or “QUANTITY” 
+> - If headers are not found, prompt the user to select the Price and Quantity columns manually 
+> - Prevent duplicate “Market Value” columns 
+> - Include full structured error handling
 >
 > The macro must: 
-> Loop through rows 
-> Calculate Price × Quantity 
-> Write to column “Market Value” 
-> Display total portfolio value 
-> Place total portfolio value two rows below the final market value calculated 
-> Place the phrase “Total Portfolio Value” in the cell one column to the left and right-align that label
+> - Loop through rows 
+> - Calculate Price × Quantity 
+> - Write to column “Market Value” 
+> - Display total portfolio value 
+> - Place total portfolio value two rows below the final market value calculated 
+> - Place the phrase “Total Portfolio Value” in the cell one column to the left and right-align that label
 >
 > The code must compile and run without Type Mismatch errors.
 >
