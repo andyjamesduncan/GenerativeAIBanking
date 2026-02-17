@@ -415,8 +415,6 @@ Step 6
 
 Now open the Portfolio_Workshop_File_v02.xlsm and Enable Macros. From the enabled ‘Developer’ tab, go to the ‘Visual Basic’ coding environment and create a new VBA module by selecting Insert → Module.
 
-### Instruction Text
-
 Step 7
 
 In the new module, paste your copied VBA code generated inside ChatGPT. Make a note of the main name of the function generated, then close the Visual Basic environment and go back to the main Excel worksheet.
@@ -435,10 +433,17 @@ Using a text editor, create the prompt below, but with your new VBA inserted as 
 
 Paste your constructed prompt into a ChatGPT input box and then execute.
 
-## Copy and Paste This Into ChatGPT
+### Copy Text
 
+```
 ```vba
-' >>> YOUR MACRO-GENERATED VBA CODE GETS PASTED HERE <<<
+>>> YOUR MACRO-GENERATED VBA CODE GETS PASTED HERE <<<
+```
+
+Review the supplied VBA macro as if you were a senior risk or model validation reviewer.
+Identify hidden assumptions, edge case failures, and production risks.
+
+Suggest improvements without changing the core functionality.
 ```
 
 Review the supplied VBA macro as if you were a senior risk or model validation reviewer.  
